@@ -1,0 +1,24 @@
+{
+  "name": "scraper/scraper-allocine",
+  "description": "Allocine website Scraper",
+  "authors": [
+    {
+      "name": "rem42",
+      "email": "me@remy.ovh"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "doctrine/common": "^2.8",
+    "symfony/dom-crawler": "^3.0",
+    "jms/serializer-bundle": "^2.0",
+    "rem42/scraper": "^1.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Scraper\\ScraperAllocine\\": ""
+    }
+  }
+}
