@@ -1,6 +1,7 @@
 {
   "name": "scraper/scraper-allocine",
   "description": "Allocine website Scraper",
+  "license": "MIT",
   "authors": [
     {
       "name": "rem42",
