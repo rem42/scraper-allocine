@@ -16,7 +16,7 @@
     "symfony/css-selector": "^5.0"
   },
   "require-dev": {
-    "rector/rector": "^0.7.16",
+    "rector/rector": "^0.9.5",
     "rem42/php-cs-fixer-config": "^1.0",
     "phpstan/phpstan": "0.12.*",
     "phpunit/phpunit": "^9",
