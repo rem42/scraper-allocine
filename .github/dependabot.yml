@@ -1,0 +1,29 @@
+version: 2
+updates:
+- package-ecosystem: composer
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "04:00"
+  open-pull-requests-limit: 10
+  target-branch: v2
+  ignore:
+  - dependency-name: rector/rector
+    versions:
+    - 0.10.1
+    - 0.10.11
+    - 0.10.3
+    - 0.10.4
+    - 0.10.6
+    - 0.10.9
+    - 0.9.16
+    - 0.9.18
+    - 0.9.19
+    - 0.9.20
+    - 0.9.21
+    - 0.9.26
+    - 0.9.28
+    - 0.9.29
+    - 0.9.30
+    - 0.9.31
+    - 0.9.33
