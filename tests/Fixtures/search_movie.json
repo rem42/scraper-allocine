@@ -1,0 +1,280 @@
+{
+  "feed": {
+    "page": 1,
+    "count": 20,
+    "results": [
+      {
+        "type": "movie",
+        "$": 12
+      }
+    ],
+    "totalResults": 12,
+    "movie": [
+      {
+        "code": 34509,
+        "originalTitle": "The Hulk",
+        "title": "Hulk",
+        "productionYear": 2003,
+        "release": {
+          "releaseDate": "2003-07-02"
+        },
+        "castingShort": {
+          "directors": "Ang Lee",
+          "actors": "Lou Ferrigno, Stan Lee, Eric Bana, Jennifer Connelly, Nick Nolte"
+        },
+        "statistics": {
+          "pressRating": 3.16667,
+          "userRating": 2.05753
+        },
+        "poster": {
+          "path": "/medias/nmedia/00/02/54/34/affiche2.jpg",
+          "href": "http://fr.web.img6.acsta.net/medias/nmedia/00/02/54/34/affiche2.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=34509.html"
+          }
+        ]
+      },
+      {
+        "code": 114820,
+        "originalTitle": "The Incredible Hulk",
+        "title": "L'Incroyable Hulk",
+        "productionYear": 2008,
+        "release": {
+          "releaseDate": "2008-07-23"
+        },
+        "castingShort": {
+          "directors": "Louis Leterrier",
+          "actors": "Edward Norton, Liv Tyler, Tim Roth, William Hurt, Christina Cabot"
+        },
+        "statistics": {
+          "pressRating": 3.36364,
+          "userRating": 3.11247
+        },
+        "poster": {
+          "path": "/medias/nmedia/18/65/69/21/18949753.jpg",
+          "href": "http://fr.web.img2.acsta.net/medias/nmedia/18/65/69/21/18949753.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=114820.html"
+          }
+        ]
+      },
+      {
+        "code": 271898,
+        "originalTitle": "Untitled Hulk Hogan / Netflix Movie",
+        "productionYear": 2022,
+        "castingShort": {
+          "directors": "Todd Phillips",
+          "actors": "Chris Hemsworth"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=271898.html"
+          }
+        ]
+      },
+      {
+        "code": 253043,
+        "originalTitle": "Hulk: Where Monsters Dwell",
+        "productionYear": 2016,
+        "castingShort": {
+          "directors": "Mitch Schauer",
+          "actors": "Fred Tatasciore, Liam O'Brien, Jesse Burch, Chiara Zanni, Mike Vaughn"
+        },
+        "poster": {
+          "path": "/pictures/17/02/09/15/29/584884.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/17/02/09/15/29/584884.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=253043.html"
+          }
+        ]
+      },
+      {
+        "code": 175726,
+        "originalTitle": "Planet Hulk",
+        "title": "Planète Hulk",
+        "productionYear": 2010,
+        "castingShort": {
+          "directors": "Sam Liu",
+          "actors": "Rick D. Wasserman, Lisa Ann Beley, Mark Hildreth, Liam O'Brien (I), Kevin Michael Richardson"
+        },
+        "statistics": {
+          "userRating": 3.36507
+        },
+        "poster": {
+          "path": "/medias/nmedia/18/73/62/19/19209375.jpg",
+          "href": "http://fr.web.img3.acsta.net/medias/nmedia/18/73/62/19/19209375.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=175726.html"
+          }
+        ]
+      },
+      {
+        "code": 171747,
+        "originalTitle": "Hulk Vs.",
+        "title": "Hulk vs Thor",
+        "productionYear": 2009,
+        "castingShort": {
+          "directors": "Sam Liu, Frank Paur",
+          "actors": "Grey DeLisle, Bryce Johnson, Michael Adamthwaite, Nicole Oliver, French Tickner"
+        },
+        "statistics": {
+          "userRating": 3.1893
+        },
+        "poster": {
+          "path": "/medias/nmedia/18/72/33/25/19160455.jpg",
+          "href": "http://fr.web.img4.acsta.net/medias/nmedia/18/72/33/25/19160455.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=171747.html"
+          }
+        ]
+      },
+      {
+        "code": 222568,
+        "originalTitle": "The Trial of the Incredible Hulk",
+        "title": "Le Procès de l'Incroyable Hulk",
+        "productionYear": 1989,
+        "castingShort": {
+          "directors": "Bill Bixby",
+          "actors": "Bill Bixby, Lou Ferrigno, Marta Dubois, Nancy Everhard, Nicholas Hormann"
+        },
+        "statistics": {
+          "userRating": 2.81346
+        },
+        "poster": {
+          "path": "/pictures/15/04/24/15/54/479763.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/15/04/24/15/54/479763.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=222568.html"
+          }
+        ]
+      },
+      {
+        "code": 206000,
+        "originalTitle": "The Incredible Hulk Returns",
+        "title": "Le Retour de l'incroyable Hulk",
+        "productionYear": 1988,
+        "castingShort": {
+          "directors": "Bill Bixby, Nicholas Corea",
+          "actors": "Bill Bixby, Lou Ferrigno, Jack Colvin, Lee Purcell, Charles Napier"
+        },
+        "statistics": {
+          "userRating": 2.62256
+        },
+        "poster": {
+          "path": "/pictures/15/04/24/15/04/109381.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/15/04/24/15/04/109381.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=206000.html"
+          }
+        ]
+      },
+      {
+        "code": 281795,
+        "originalTitle": "Hulk, le royaume des cauchemars",
+        "productionYear": 2020,
+        "statistics": {
+          "userRating": 2.72084
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=281795.html"
+          }
+        ]
+      },
+      {
+        "code": 252273,
+        "originalTitle": "Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press",
+        "title": "Le procès d’une presse libre",
+        "productionYear": 2017,
+        "castingShort": {
+          "directors": "Brian Knappenberger",
+          "actors": "Hulk Hogan"
+        },
+        "statistics": {
+          "userRating": 3.1839
+        },
+        "poster": {
+          "path": "/pictures/17/06/16/14/02/575001.jpg",
+          "href": "http://fr.web.img2.acsta.net/pictures/17/06/16/14/02/575001.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=252273.html"
+          }
+        ]
+      },
+      {
+        "code": 213757,
+        "originalTitle": "Iron Man & Hulk: Heroes United",
+        "productionYear": 2013,
+        "castingShort": {
+          "directors": "Eric Radomski, Leo Riley",
+          "actors": "Adrian Pasdar, Fred Tatasciore, Dee Bradley Baker, Robin Atkin Downes"
+        },
+        "statistics": {
+          "userRating": 2.42912
+        },
+        "poster": {
+          "path": "/pictures/14/10/13/20/29/497802.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/14/10/13/20/29/497802.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=213757.html"
+          }
+        ]
+      },
+      {
+        "code": 218265,
+        "originalTitle": "Avengers: Infinity War",
+        "productionYear": 2018,
+        "release": {
+          "releaseDate": "2018-04-25"
+        },
+        "castingShort": {
+          "directors": "Joe Russo, Anthony Russo",
+          "actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson"
+        },
+        "statistics": {
+          "pressRating": 3.42857,
+          "userRating": 4.32752
+        },
+        "poster": {
+          "path": "/pictures/18/03/16/14/42/0611719.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/18/03/16/14/42/0611719.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=218265.html"
+          }
+        ]
+      }
+    ]
+  }
+}

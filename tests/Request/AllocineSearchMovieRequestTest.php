@@ -4,11 +4,15 @@ namespace Scraper\ScraperAllocine\Tests\Request;
 
 use PHPUnit\Framework\TestCase;
 use Scraper\Scraper\Client;
-use Scraper\ScraperAllocine\Entity\Movie;
+use Scraper\ScraperAllocine\Model\Movie;
+use Scraper\ScraperAllocine\Model\SearchMovie;
 use Scraper\ScraperAllocine\Request\AllocineSearchMovieRequest;
 use Symfony\Contracts\HttpClient\HttpClientInterface;
 use Symfony\Contracts\HttpClient\ResponseInterface;
 
+/**
+ * @internal
+ */
 final class AllocineSearchMovieRequestTest extends TestCase
 {
     public function testAllocineSearchMovieRequest(): void
@@ -17,7 +21,7 @@ final class AllocineSearchMovieRequestTest extends TestCase
         $responseInterface
             ->method('getStatusCode')->willReturn(200);
         $responseInterface
-            ->method('getContent')->willReturn(file_get_contents(dirname(__FILE__) . '/../Fixtures/search_movie.html'))
+            ->method('getContent')->willReturn(file_get_contents(__DIR__ . '/../Fixtures/search_movie.json'))
         ;
         $httpClient = $this->createMock(HttpClientInterface::class);
         $httpClient
@@ -25,13 +29,13 @@ final class AllocineSearchMovieRequestTest extends TestCase
         ;
         $client = new Client($httpClient);
 
-        $request = new AllocineSearchMovieRequest();
+        $request = new AllocineSearchMovieRequest('partner', 'hash');
         $request->setQuery('marvel');
 
-        /** @var Movie[] $result */
         $result = $client->send($request);
 
-        $this->assertIsArray($result);
-        $this->assertInstanceOf(Movie::class, $result[0]);
+        $this->assertInstanceOf(SearchMovie::class, $result);
+        $this->assertIsArray($result->movie);
+        $this->assertInstanceOf(Movie::class, $result->movie[0]);
     }
 }
