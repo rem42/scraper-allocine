@@ -10,17 +10,16 @@
     }
   ],
   "require": {
-    "php": "^7.4",
-    "rem42/scraper": "v2.x-dev",
-    "symfony/dom-crawler": "^5.0",
-    "symfony/css-selector": "^5.0"
+    "php": "^7.4|^8.0",
+    "ext-json": "*",
+    "doctrine/collections": "^1.6",
+    "rem42/scraper": "^2.0",
+    "symfony/serializer-pack": "^1.0"
   },
   "require-dev": {
-    "rector/rector": "^0.7.16",
-    "rem42/php-cs-fixer-config": "^1.0",
-    "phpstan/phpstan": "0.12.*",
-    "phpunit/phpunit": "^9",
-    "php-coveralls/php-coveralls": "^2.2"
+    "rem42/php-cs-fixer-config": "^3.1",
+    "phpstan/phpstan": "^1.0",
+    "phpunit/phpunit": "^9.5"
   },
   "autoload": {
     "psr-0": {
@@ -45,8 +44,7 @@
     "static-analysis": "./bin/phpstan analyse src --level=max --no-progress -vvv",
     "code-style-check": "./bin/php-cs-fixer fix --dry-run --verbose",
     "code-style-fix": "./bin/php-cs-fixer fix",
-    "rector-check": "./bin/rector process --dry-run",
-    "rector-fix": "./bin/rector process",
     "unit-test": "./bin/phpunit"
-  }
+  },
+  "sort-packages": true
 }
