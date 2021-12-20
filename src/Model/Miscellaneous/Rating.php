@@ -2,7 +2,12 @@
 
 namespace Scraper\ScraperAllocine\Model\Miscellaneous;
 
-final class Rating extends Type
+use Symfony\Component\Serializer\Annotation\SerializedName;
+
+final class Rating
 {
-    public int $note;
+    public float $note;
+
+    /** @SerializedName("$") */
+    public int $value;
 }
