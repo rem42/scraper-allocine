@@ -1,0 +1,1343 @@
+{
+  "feed": {
+    "page": 1,
+    "count": 20,
+    "results": [
+      {
+        "type": "movie",
+        "$": 12
+      },
+      {
+        "type": "theater",
+        "$": 0
+      },
+      {
+        "type": "tvseries",
+        "$": 6
+      },
+      {
+        "type": "person",
+        "$": 2
+      },
+      {
+        "type": "program",
+        "$": 0
+      },
+      {
+        "type": "video",
+        "$": 41
+      },
+      {
+        "type": "news",
+        "$": 175
+      }
+    ],
+    "totalResults": 236,
+    "movie": [
+      {
+        "code": 34509,
+        "originalTitle": "The Hulk",
+        "title": "Hulk",
+        "productionYear": 2003,
+        "release": {
+          "releaseDate": "2003-07-02"
+        },
+        "castingShort": {
+          "directors": "Ang Lee",
+          "actors": "Lou Ferrigno, Stan Lee, Eric Bana, Jennifer Connelly, Nick Nolte"
+        },
+        "statistics": {
+          "pressRating": 3.16667,
+          "userRating": 2.05753
+        },
+        "poster": {
+          "path": "/medias/nmedia/00/02/54/34/affiche2.jpg",
+          "href": "http://fr.web.img6.acsta.net/medias/nmedia/00/02/54/34/affiche2.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=34509.html"
+          }
+        ]
+      },
+      {
+        "code": 114820,
+        "originalTitle": "The Incredible Hulk",
+        "title": "L'Incroyable Hulk",
+        "productionYear": 2008,
+        "release": {
+          "releaseDate": "2008-07-23"
+        },
+        "castingShort": {
+          "directors": "Louis Leterrier",
+          "actors": "Edward Norton, Liv Tyler, Tim Roth, William Hurt, Christina Cabot"
+        },
+        "statistics": {
+          "pressRating": 3.36364,
+          "userRating": 3.11247
+        },
+        "poster": {
+          "path": "/medias/nmedia/18/65/69/21/18949753.jpg",
+          "href": "http://fr.web.img2.acsta.net/medias/nmedia/18/65/69/21/18949753.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=114820.html"
+          }
+        ]
+      },
+      {
+        "code": 271898,
+        "originalTitle": "Untitled Hulk Hogan / Netflix Movie",
+        "productionYear": 2022,
+        "castingShort": {
+          "directors": "Todd Phillips",
+          "actors": "Chris Hemsworth"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=271898.html"
+          }
+        ]
+      },
+      {
+        "code": 253043,
+        "originalTitle": "Hulk: Where Monsters Dwell",
+        "productionYear": 2016,
+        "castingShort": {
+          "directors": "Mitch Schauer",
+          "actors": "Fred Tatasciore, Liam O'Brien, Jesse Burch, Chiara Zanni, Mike Vaughn"
+        },
+        "poster": {
+          "path": "/pictures/17/02/09/15/29/584884.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/17/02/09/15/29/584884.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=253043.html"
+          }
+        ]
+      },
+      {
+        "code": 175726,
+        "originalTitle": "Planet Hulk",
+        "title": "Planète Hulk",
+        "productionYear": 2010,
+        "castingShort": {
+          "directors": "Sam Liu",
+          "actors": "Rick D. Wasserman, Lisa Ann Beley, Mark Hildreth, Liam O'Brien (I), Kevin Michael Richardson"
+        },
+        "statistics": {
+          "userRating": 3.36507
+        },
+        "poster": {
+          "path": "/medias/nmedia/18/73/62/19/19209375.jpg",
+          "href": "http://fr.web.img3.acsta.net/medias/nmedia/18/73/62/19/19209375.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=175726.html"
+          }
+        ]
+      },
+      {
+        "code": 171747,
+        "originalTitle": "Hulk Vs.",
+        "title": "Hulk vs Thor",
+        "productionYear": 2009,
+        "castingShort": {
+          "directors": "Sam Liu, Frank Paur",
+          "actors": "Grey DeLisle, Bryce Johnson, Michael Adamthwaite, Nicole Oliver, French Tickner"
+        },
+        "statistics": {
+          "userRating": 3.1893
+        },
+        "poster": {
+          "path": "/medias/nmedia/18/72/33/25/19160455.jpg",
+          "href": "http://fr.web.img4.acsta.net/medias/nmedia/18/72/33/25/19160455.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=171747.html"
+          }
+        ]
+      },
+      {
+        "code": 222568,
+        "originalTitle": "The Trial of the Incredible Hulk",
+        "title": "Le Procès de l'Incroyable Hulk",
+        "productionYear": 1989,
+        "castingShort": {
+          "directors": "Bill Bixby",
+          "actors": "Bill Bixby, Lou Ferrigno, Marta Dubois, Nancy Everhard, Nicholas Hormann"
+        },
+        "statistics": {
+          "userRating": 2.81346
+        },
+        "poster": {
+          "path": "/pictures/15/04/24/15/54/479763.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/15/04/24/15/54/479763.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=222568.html"
+          }
+        ]
+      },
+      {
+        "code": 206000,
+        "originalTitle": "The Incredible Hulk Returns",
+        "title": "Le Retour de l'incroyable Hulk",
+        "productionYear": 1988,
+        "castingShort": {
+          "directors": "Bill Bixby, Nicholas Corea",
+          "actors": "Bill Bixby, Lou Ferrigno, Jack Colvin, Lee Purcell, Charles Napier"
+        },
+        "statistics": {
+          "userRating": 2.62256
+        },
+        "poster": {
+          "path": "/pictures/15/04/24/15/04/109381.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/15/04/24/15/04/109381.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=206000.html"
+          }
+        ]
+      },
+      {
+        "code": 281795,
+        "originalTitle": "Hulk, le royaume des cauchemars",
+        "productionYear": 2020,
+        "statistics": {
+          "userRating": 2.72084
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=281795.html"
+          }
+        ]
+      },
+      {
+        "code": 252273,
+        "originalTitle": "Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press",
+        "title": "Le procès d’une presse libre",
+        "productionYear": 2017,
+        "castingShort": {
+          "directors": "Brian Knappenberger",
+          "actors": "Hulk Hogan"
+        },
+        "statistics": {
+          "userRating": 3.1839
+        },
+        "poster": {
+          "path": "/pictures/17/06/16/14/02/575001.jpg",
+          "href": "http://fr.web.img2.acsta.net/pictures/17/06/16/14/02/575001.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=252273.html"
+          }
+        ]
+      },
+      {
+        "code": 213757,
+        "originalTitle": "Iron Man & Hulk: Heroes United",
+        "productionYear": 2013,
+        "castingShort": {
+          "directors": "Eric Radomski, Leo Riley",
+          "actors": "Adrian Pasdar, Fred Tatasciore, Dee Bradley Baker, Robin Atkin Downes"
+        },
+        "statistics": {
+          "userRating": 2.42912
+        },
+        "poster": {
+          "path": "/pictures/14/10/13/20/29/497802.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/14/10/13/20/29/497802.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=213757.html"
+          }
+        ]
+      },
+      {
+        "code": 218265,
+        "originalTitle": "Avengers: Infinity War",
+        "productionYear": 2018,
+        "release": {
+          "releaseDate": "2018-04-25"
+        },
+        "castingShort": {
+          "directors": "Joe Russo, Anthony Russo",
+          "actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson"
+        },
+        "statistics": {
+          "pressRating": 3.42857,
+          "userRating": 4.32752
+        },
+        "poster": {
+          "path": "/pictures/18/03/16/14/42/0611719.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/18/03/16/14/42/0611719.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=218265.html"
+          }
+        ]
+      }
+    ],
+    "person": [
+      {
+        "code": 18655,
+        "name": "Hulk Hogan",
+        "realName": "Terry Gene Bollea",
+        "gender": 1,
+        "birthDate": "1953-08-11",
+        "activity": [
+          {
+            "code": 8001,
+            "$": "Acteur"
+          },
+          {
+            "code": 8061,
+            "$": "Producteur délégué"
+          },
+          {
+            "code": 8062,
+            "$": "Producteur exécutif"
+          },
+          {
+            "code": 8029,
+            "$": "Producteur"
+          }
+        ],
+        "nationality": [
+          {
+            "code": 5002,
+            "$": "américain"
+          }
+        ],
+        "picture": {
+          "path": "/pictures/210/089/21008934_20130528152521131.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/210/089/21008934_20130528152521131.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=18655.html"
+          }
+        ]
+      },
+      {
+        "code": 264024,
+        "name": "Sebastian Hülk",
+        "gender": 1,
+        "birthDate": "1975-01-10",
+        "activity": [
+          {
+            "code": 8001,
+            "$": "Acteur"
+          }
+        ],
+        "nationality": [
+          {
+            "code": 5129,
+            "$": "allemand"
+          }
+        ],
+        "picture": {
+          "path": "/pictures/210/416/21041664_20130919123703602.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/210/416/21041664_20130919123703602.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=264024.html"
+          }
+        ]
+      }
+    ],
+    "tvseries": [
+      {
+        "code": 11400,
+        "originalTitle": "Marvel's Agents of S.H.I.E.L.D.",
+        "title": "Marvel : Les Agents du S.H.I.E.L.D.",
+        "castingShort": {
+          "creators": "Joss Whedon, Jed Whedon, Maurissa Tancharoen",
+          "actors": "Clark Gregg, Ming-Na Wen, Chloe Bennet, Elizabeth Henstridge, Henry Simmons"
+        },
+        "yearStart": 2013,
+        "yearEnd": 2020,
+        "seasonCount": 7,
+        "statistics": {
+          "pressRating": 3.77778,
+          "userRating": 3.85082
+        },
+        "poster": {
+          "path": "/pictures/21/03/01/16/51/5679585.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/21/03/01/16/51/5679585.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/series/ficheserie_gen_cserie=11400.html"
+          }
+        ]
+      },
+      {
+        "code": 384,
+        "originalTitle": "The Incredible Hulk (1977)",
+        "title": "L'Incroyable Hulk",
+        "castingShort": {
+          "actors": "Bill Bixby, Lou Ferrigno, Jack Colvin"
+        },
+        "yearStart": 1977,
+        "yearEnd": 1982,
+        "seasonCount": 5,
+        "statistics": {
+          "userRating": 1.98816
+        },
+        "poster": {
+          "path": "/medias/nmedia/18/35/81/94/18427094.jpg",
+          "href": "http://fr.web.img4.acsta.net/medias/nmedia/18/35/81/94/18427094.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/series/ficheserie_gen_cserie=384.html"
+          }
+        ]
+      },
+      {
+        "code": 11529,
+        "originalTitle": "Hulk and the Agents of S.M.A.S.H.",
+        "title": "Hulk et les agents du S.M.A.S.H",
+        "castingShort": {
+          "actors": "Fred Tatasciore, Clancy Brown, Eliza Dushku, Ben Diskin, Seth Green"
+        },
+        "yearStart": 2013,
+        "seasonCount": 2,
+        "statistics": {
+          "userRating": 2.91422
+        },
+        "poster": {
+          "path": "/pictures/210/258/21025832_20130808175419997.jpg",
+          "href": "http://fr.web.img1.acsta.net/pictures/210/258/21025832_20130808175419997.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/series/ficheserie_gen_cserie=11529.html"
+          }
+        ]
+      },
+      {
+        "code": 25545,
+        "originalTitle": "She-Hulk",
+        "castingShort": {
+          "creators": "Jessica Gao",
+          "actors": "Tatiana Maslany, Mark Ruffalo, Tim Roth, Ginger Gonzaga, Renée Elise Goldsberry"
+        },
+        "yearStart": 2022,
+        "seasonCount": 1,
+        "statistics": {
+          "userRating": 3.20663
+        },
+        "poster": {
+          "path": "/pictures/21/11/12/17/49/0675010.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/21/11/12/17/49/0675010.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/series/ficheserie_gen_cserie=25545.html"
+          }
+        ]
+      },
+      {
+        "code": 4830,
+        "originalTitle": "The Incredible Hulk (1996)",
+        "title": "L'Incroyable Hulk",
+        "castingShort": {
+          "creators": "Jack Kirby, Stan Lee",
+          "actors": "Neal McDonough, John Vernon, Lou Ferrigno, Mark Hamill, Luke Perry"
+        },
+        "yearStart": 1996,
+        "yearEnd": 1997,
+        "seasonCount": 2,
+        "statistics": {
+          "userRating": 3.18529
+        },
+        "poster": {
+          "path": "/pictures/20/11/17/10/07/2671170.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/20/11/17/10/07/2671170.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/series/ficheserie_gen_cserie=4830.html"
+          }
+        ]
+      },
+      {
+        "code": 5869,
+        "originalTitle": "Hulk Hogan's Rock 'N' Wrestling",
+        "title": "Les Catcheurs du Rock",
+        "yearStart": 1985,
+        "yearEnd": 1986,
+        "seasonCount": 2,
+        "statistics": {
+          "userRating": 2.7549
+        },
+        "poster": {
+          "path": "/medias/nmedia/18/70/07/52/19086229.jpg",
+          "href": "http://fr.web.img3.acsta.net/medias/nmedia/18/70/07/52/19086229.jpg"
+        },
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/series/ficheserie_gen_cserie=5869.html"
+          }
+        ]
+      }
+    ],
+    "news": [
+      {
+        "code": 18704347,
+        "title": "Tatouages, chirurgie massive, invention folle... 5 fois où les fans de Marvel et DC sont allés trop loin",
+        "headline": "Être fan de super-héros (ou super-vilains !) est une passion tout ce qu'il y a de plus respectable. Mais lorsque celle-ci devient carrément obsessionnelle, complètement WTF et / ou involontairement drôle, rien ne va plus...",
+        "publication": {
+          "dateStart": "2021-11-19"
+        },
+        "picture": {
+          "path": "/newsv7/21/11/17/11/50/2438219.jpg",
+          "href": "http://fr.web.img2.acsta.net/newsv7/21/11/17/11/50/2438219.jpg"
+        },
+        "category": [
+          {
+            "code": 23209,
+            "$": "Insolite"
+          }
+        ]
+      },
+      {
+        "code": 18704328,
+        "title": "Moon Knight, She-Hulk, Ms Marvel : les studios Marvel dévoilent les premières images de leurs nouvelles séries Disney+",
+        "headline": "Une vidéo promotionnelle dévoilée par la plateforme Disney Plus a révélé les premières images des nouvelles séries Marvel attendues pour l'année prochaine : \"Moon Knight\", \"She-Hulk\" et \"Ms Marvel\" !",
+        "publication": {
+          "dateStart": "2021-11-12"
+        },
+        "picture": {
+          "path": "/newsv7/21/11/12/18/27/1369757.jpg",
+          "href": "http://fr.web.img5.acsta.net/newsv7/21/11/12/18/27/1369757.jpg"
+        },
+        "category": [
+          {
+            "code": 23245,
+            "$": "Streaming"
+          }
+        ]
+      },
+      {
+        "code": 18702726,
+        "title": "Marvel : Quel est le meilleur film de la Phase 1 ?",
+        "headline": "Découvrez le classement des meilleurs films de la Phase 1 de l'univers Marvel selon vos notes de spectateurs sur AlloCiné.",
+        "publication": {
+          "dateStart": "2021-09-25"
+        },
+        "picture": {
+          "path": "/newsv7/21/09/15/11/00/3038902.jpg",
+          "href": "http://fr.web.img4.acsta.net/newsv7/21/09/15/11/00/3038902.jpg"
+        },
+        "category": [
+          {
+            "code": 23218,
+            "$": "Culture ciné"
+          }
+        ]
+      },
+      {
+        "code": 18702746,
+        "title": "She-Hulk sur Disney+ : Tim Roth évoque son retour dans l’univers Marvel",
+        "headline": "Tim Roth a évoqué dans un entretien son retour dans l’univers Marvel à l’occasion de la série \"She-Hulk\", diffusée prochainement sur la plateforme Disney Plus.",
+        "publication": {
+          "dateStart": "2021-09-15"
+        },
+        "picture": {
+          "path": "/newsv7/21/09/15/14/26/5396241.jpg",
+          "href": "http://fr.web.img2.acsta.net/newsv7/21/09/15/14/26/5396241.jpg"
+        },
+        "category": [
+          {
+            "code": 23118,
+            "$": "Stars"
+          }
+        ]
+      },
+      {
+        "code": 18702219,
+        "title": "Shang-Chi : à quels films Marvel est lié le nouveau super-héros ?",
+        "headline": "Avec \"Shang-Chi et la Légende des Dix Anneaux\", le Marvel Cinematic Universe nous présente l'un de ses nouveaux héros. Mais il n'oublie pas de l'inscrire dans son univers en liant son film à d'autres opus.",
+        "publication": {
+          "dateStart": "2021-09-04"
+        },
+        "picture": {
+          "path": "/newsv7/21/08/27/17/10/0659526.jpg",
+          "href": "http://fr.web.img3.acsta.net/newsv7/21/08/27/17/10/0659526.jpg"
+        },
+        "category": [
+          {
+            "code": 23201,
+            "$": "Sorties Ciné"
+          }
+        ]
+      },
+      {
+        "code": 18698481,
+        "title": "Ant-Man : aviez-vous remarqué ces clins d’oeil à deux Avengers ?",
+        "headline": "Dans le long métrage super-héroïque \"Ant-Man\", diffusé hier soir sur TF1, se sont glissés des clins d'oeil à deux membres des Avengers. Les avez-vous remarqués ?",
+        "publication": {
+          "dateStart": "2021-04-12"
+        },
+        "picture": {
+          "path": "/newsv7/21/04/08/12/40/2261905.jpg",
+          "href": "http://fr.web.img6.acsta.net/newsv7/21/04/08/12/40/2261905.jpg"
+        },
+        "category": [
+          {
+            "code": 23218,
+            "$": "Culture ciné"
+          }
+        ]
+      },
+      {
+        "code": 18697702,
+        "title": "Marvel sur Disney + : les séries She-Hulk et Moon Knight entrent prochainement en tournage",
+        "headline": "Les séries Marvel s’apprêtent à pleuvoir sur Disney+. Les tournages de She-Hulk avec Tatiana Maslany et Moon Knight avec Oscar Isaac vont bientôt débuter.",
+        "publication": {
+          "dateStart": "2021-03-12"
+        },
+        "picture": {
+          "path": "/newsv7/21/03/12/11/25/5175633.jpg",
+          "href": "http://fr.web.img1.acsta.net/newsv7/21/03/12/11/25/5175633.jpg"
+        },
+        "category": [
+          {
+            "code": 23117,
+            "$": "Tournages"
+          }
+        ]
+      },
+      {
+        "code": 18695977,
+        "title": "Spider-Man Homecoming sur Netflix : un autre Avenger se cache (très bien) dans le film",
+        "headline": "Dans le long métrage super-héroïque \"Spider-Man: Homecoming\", disponible sur Netflix, se cache un autre membre des Avengers. Et il se planque particulièrement bien. L'avez-vous repéré ?",
+        "publication": {
+          "dateStart": "2021-01-13"
+        },
+        "picture": {
+          "path": "/newsv7/21/01/12/16/08/3624940.jpg",
+          "href": "http://fr.web.img3.acsta.net/newsv7/21/01/12/16/08/3624940.jpg"
+        },
+        "category": [
+          {
+            "code": 23218,
+            "$": "Culture ciné"
+          }
+        ]
+      },
+      {
+        "code": 18695309,
+        "title": "Marvel : She-Hulk, Ms. Marvel, Nick Fury... toutes les séries live à venir sur Disney+",
+        "headline": "Alors que \"Wandavision\" arrive prochainement, le studio Disney a annoncé ses autres séries Marvel à venir lors de l'Investor Day, de \"She-Hulk\" à \"Secret Invasion\", programme centré sur Nick Fury.",
+        "publication": {
+          "dateStart": "2020-12-11"
+        },
+        "picture": {
+          "path": "/newsv7/20/12/11/16/09/5504555.jpg",
+          "href": "http://fr.web.img5.acsta.net/newsv7/20/12/11/16/09/5504555.jpg"
+        },
+        "category": [
+          {
+            "code": 23119,
+            "$": "Séries à la TV"
+          }
+        ]
+      },
+      {
+        "code": 18693054,
+        "title": "Marvel : Tatiana Maslany (Orphan Black) sera She-Hulk dans la série super-héroïque",
+        "headline": "L’actrice canadienne Tatiana Maslany, rendue célèbre par la série \"Orphan Black\", est a été choisie pour prêter ses traits à l’héroïne Marvel \"She-Hulk\", dans une production exclusive Disney Plus.",
+        "publication": {
+          "dateStart": "2020-09-18"
+        },
+        "picture": {
+          "path": "/newsv7/20/09/18/12/40/2580719.jpg",
+          "href": "http://fr.web.img6.acsta.net/newsv7/20/09/18/12/40/2580719.jpg"
+        },
+        "category": [
+          {
+            "code": 23004,
+            "$": "Stars"
+          }
+        ]
+      },
+      {
+        "code": 18690768,
+        "title": "Snowpiercer (Netflix) : Jennifer Connelly en 5 films qui ont marqué sa carrière",
+        "headline": "Focus sur cinq longs métrages qui ont marqué la carrière de l'actrice Jennifer Connelly, actuellement à l'affiche de la série \"Snowpiercer\" sur Netflix.",
+        "publication": {
+          "dateStart": "2020-06-16"
+        },
+        "picture": {
+          "path": "/newsv7/20/06/15/17/53/0106981.jpg",
+          "href": "http://fr.web.img2.acsta.net/newsv7/20/06/15/17/53/0106981.jpg"
+        },
+        "category": [
+          {
+            "code": 23004,
+            "$": "Stars"
+          }
+        ]
+      },
+      {
+        "code": 18689045,
+        "title": "Avengers : les théories surprenantes de l'astrophysicien Neil deGrasse Tyson pendant le confinement",
+        "headline": "A quoi servent les muscles de Thor ? Quelle est la densité de Hulk ? Pendant son confinement, l'astrophysicien Neil deGrasse Tyson s'est mis à tweeter des théories sur les Avengers.",
+        "publication": {
+          "dateStart": "2020-04-03"
+        },
+        "picture": {
+          "path": "/newsv7/20/04/03/10/49/2435462.jpg",
+          "href": "http://fr.web.img2.acsta.net/newsv7/20/04/03/10/49/2435462.jpg"
+        },
+        "category": [
+          {
+            "code": 23012,
+            "$": "Vu sur le web"
+          }
+        ]
+      },
+      {
+        "code": 18688124,
+        "title": "She-Hulk : Mark Ruffalo pourrait rejouer Hulk dans la série Disney+",
+        "headline": "L'acteur Mark Ruffalo vient de confirmer qu'il était en discussions pour reprendre son personnage de Hulk dans la série \"She-Hulk\", attendue sur la plateforme Disney+.",
+        "publication": {
+          "dateStart": "2020-03-02"
+        },
+        "picture": {
+          "path": "/newsv7/20/03/02/09/43/2255677.jpg",
+          "href": "http://fr.web.img4.acsta.net/newsv7/20/03/02/09/43/2255677.jpg"
+        },
+        "category": [
+          {
+            "code": 23117,
+            "$": "Tournages"
+          }
+        ]
+      },
+      {
+        "code": 18687794,
+        "title": "Marvel's Avengers : Thor, Ms Marvel, Hulk, Iron Man... Ils sont tous là dans le nouveau Trailer",
+        "headline": "Désormais attendu pour début septembre (au lieu de mai), le jeu Marvel's avengers, développé par Crystal Dynamics et édité par Square Enix, se dévoile un peu plus dans une nouvelle bande-annonce. Images !",
+        "publication": {
+          "dateStart": "2020-02-14"
+        },
+        "picture": {
+          "path": "/newsv7/20/02/14/11/45/5792184.jpg",
+          "href": "http://fr.web.img3.acsta.net/newsv7/20/02/14/11/45/5792184.jpg"
+        },
+        "category": [
+          {
+            "code": 23187,
+            "$": "News Jeux Video"
+          }
+        ]
+      },
+      {
+        "code": 18687698,
+        "title": "Parasite : Mark Ruffalo dans la série dérivée HBO ?",
+        "headline": "Après le sacre historique de \"Parasite\" aux Oscars, la mini-série HBO inspirée du film de Bong Joon-ho pourrait avoir trouvé son acteur principal.",
+        "publication": {
+          "dateStart": "2020-02-11"
+        },
+        "picture": {
+          "path": "/newsv7/20/02/11/10/10/3936419.jpg",
+          "href": "http://fr.web.img2.acsta.net/newsv7/20/02/11/10/10/3936419.jpg"
+        },
+        "category": [
+          {
+            "code": 23119,
+            "$": "Séries à la TV"
+          }
+        ]
+      },
+      {
+        "code": 18686048,
+        "title": "Marvel : vers un affrontement entre Hulk et Wolverine ?",
+        "headline": "Et si Hulk et Wolverine s'affrontaient sur grand écran ? C'est un crossover qui semble faire rêver Mark Ruffalo qui a révélé avoir des idées pour un film spin-off sur Hulk, dont il doit bientôt discuter avec Kevin Feige, le patron de Marvel Studios.",
+        "publication": {
+          "dateStart": "2019-11-27"
+        },
+        "picture": {
+          "path": "/newsv7/19/11/27/11/44/3484615.jpg",
+          "href": "http://fr.web.img3.acsta.net/newsv7/19/11/27/11/44/3484615.jpg"
+        },
+        "category": [
+          {
+            "code": 23004,
+            "$": "Stars"
+          }
+        ]
+      },
+      {
+        "code": 18684248,
+        "title": "Brexit : la réponse de Mark \"Hulk\" Ruffalo à Boris Johnson",
+        "headline": "Alors que le Premier Ministre britannique Boris Johnson comparait récemment le Royaume-Uni et sa volonté de quitter l'Union Européenne à l'Incroyable Hulk, l'interprète du géant vert dans le Marvel Cinematic Universe lui a répondu sur Twitter.",
+        "publication": {
+          "dateStart": "2019-09-16"
+        },
+        "picture": {
+          "path": "/newsv7/19/09/16/16/26/2312694.jpg",
+          "href": "http://fr.web.img3.acsta.net/newsv7/19/09/16/16/26/2312694.jpg"
+        },
+        "category": [
+          {
+            "code": 23004,
+            "$": "Stars"
+          }
+        ]
+      },
+      {
+        "code": 18684145,
+        "title": "Spider-Man, X-Men... Les séries animées Marvel des années 90 disponibles sur Disney+ ?",
+        "headline": "Selon le compte Twitter Disney+ Updates, le service de streaming attendu pour le 12 novembre aux États-Unis proposera à ses abonnés plusieurs séries animées Marvel des années 80 et 90.",
+        "publication": {
+          "dateStart": "2019-09-12"
+        },
+        "picture": {
+          "path": "/newsv7/19/09/12/15/13/1142085.jpg",
+          "href": "http://fr.web.img6.acsta.net/newsv7/19/09/12/15/13/1142085.jpg"
+        },
+        "category": [
+          {
+            "code": 23119,
+            "$": "Séries à la TV"
+          }
+        ]
+      },
+      {
+        "code": 18682654,
+        "title": "D'Iron Man à Avengers Endgame : notre bilan des 3 Phases du MCU, film par film",
+        "headline": "Alors que \"Avengers Endgame\" sort en DVD/Blu-Ray et que la Phase III du MCU vient de s'achever avec \"Spider-Man - Far From Home\", l'heure est venue de faire un bilan de ce premier cycle, film par film.",
+        "publication": {
+          "dateStart": "2019-08-31"
+        },
+        "picture": {
+          "path": "/newsv7/19/08/28/11/36/2824351.jpg",
+          "href": "http://fr.web.img5.acsta.net/newsv7/19/08/28/11/36/2824351.jpg"
+        },
+        "category": [
+          {
+            "code": 23218,
+            "$": "Culture ciné"
+          }
+        ]
+      },
+      {
+        "code": 18683719,
+        "title": "Ms. Marvel, She-Hulk, Moon Knight : Marvel annonce trois nouvelles séries à la D23",
+        "headline": "Alors que la Phase IV du Marvel Cinematic Universe comptera déjà cinq séries, la Maison des Idées a profité de la D23 pour annoncer les trois suivantes : \"Ms. Marvel\", \"She-Hulk\" et \"Moon Knight\".",
+        "publication": {
+          "dateStart": "2019-08-24"
+        },
+        "picture": {
+          "path": "/newsv7/19/08/24/11/49/4870804.jpg",
+          "href": "http://fr.web.img5.acsta.net/newsv7/19/08/24/11/49/4870804.jpg"
+        },
+        "category": [
+          {
+            "code": 23117,
+            "$": "Tournages"
+          }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "class": "video",
+        "code": 19594697,
+        "type": {
+          "code": 31016,
+          "$": "Teaser"
+        },
+        "description": "She-Hulk - saison 1 Teaser VO",
+        "thumbnail": {
+          "href": "http://fr.web.img2.acsta.net/videothumbnails/21/11/15/15/09/0828386.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19594697&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/21/11/15/15/19594697_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/21/11/15/15/19594697_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19589682,
+        "type": {
+          "code": 31018,
+          "$": "Making Of"
+        },
+        "description": "Marvel’s Avengers : Présentation de Hulk",
+        "thumbnail": {
+          "href": "http://fr.web.img3.acsta.net/videothumbnails/20/08/28/10/45/3230510.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19589682&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/20/08/28/10//19589682_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/20/08/28/10//19589682_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19579828,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "description": "L'Incroyable Hulk Bande-annonce VF",
+        "thumbnail": {
+          "href": "http://fr.web.img3.acsta.net/videothumbnails/18/08/24/09/58/5349011.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19579828&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/18/08/24/09/19579828_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/18/08/24/09/19579828_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19574921,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "description": "Give Me Five - Hulk",
+        "thumbnail": {
+          "href": "http://fr.web.img1.acsta.net/videothumbnails/17/10/27/14/30/1829455.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19574921&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/17/10/27/14/19574921_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/17/10/27/14/19574921_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19574668,
+        "type": {
+          "code": 31004,
+          "$": "Extrait vidéo"
+        },
+        "description": "Thor : Ragnarok EXTRAIT VF \"Thor retrouve Hulk\"",
+        "thumbnail": {
+          "href": "http://fr.web.img4.acsta.net/videothumbnails/17/10/17/12/10/2724681.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19574668&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/17/10/17/12/19574668_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/17/10/17/12/19574668_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19574667,
+        "type": {
+          "code": 31004,
+          "$": "Extrait vidéo"
+        },
+        "description": "Thor : Ragnarok EXTRAIT VO \"Thor retrouve Hulk\"",
+        "thumbnail": {
+          "href": "http://fr.web.img3.acsta.net/videothumbnails/17/10/17/12/10/0889790.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19574667&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/17/10/17/12/19574667_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/17/10/17/12/19574667_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19567508,
+        "type": {
+          "code": 31004,
+          "$": "Extrait vidéo"
+        },
+        "description": "Hulk: Where Monsters Dwell Extrait vidéo VO",
+        "thumbnail": {
+          "href": "http://fr.web.img3.acsta.net/videothumbnails/17/01/06/11/35/473821.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19567508&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/17/01/06/11/19567508_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/17/01/06/11/19567508_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19566989,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "description": "Fanzone N°689 - Hulk vs Groot",
+        "thumbnail": {
+          "href": "http://fr.web.img5.acsta.net/videothumbnails/16/12/12/14/59/308522.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19566989&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/16/12/12/16/19566989_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/16/12/12/16/19566989_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19561923,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "description": "Aviez-vous remarqué ? L'Incroyable Hulk",
+        "thumbnail": {
+          "href": "http://fr.web.img2.acsta.net/videothumbnails/16/04/07/13/52/234467.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19561923&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/16/04/07/13/19561923_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/16/04/07/13/19561923_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19560582,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "description": "Super Bowl 2016 : Ant-Man et Hulk s'affrontent pour une canette",
+        "thumbnail": {
+          "href": "http://fr.web.img5.acsta.net/videothumbnails/16/02/08/11/27/447030.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19560582&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/16/02/08/11/19560582_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/16/02/08/11/19560582_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19554425,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "description": "Fanzone N°429 - Tony Stark invite Hulk sur Civil War",
+        "thumbnail": {
+          "href": "http://fr.web.img5.acsta.net/videothumbnails/15/06/15/18/04/545001.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19554425&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/15/06/16/18/19554425_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/15/06/16/18/19554425_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19550630,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "description": "Fanzone N°329 - Avengers 2 : Hulk voit rouge...",
+        "thumbnail": {
+          "href": "http://fr.web.img2.acsta.net/videothumbnails/15/01/13/11/27/537543.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19550630&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/15/01/13/18/19550630_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/15/01/13/18/19550630_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19548334,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "description": "Xavier Dolan... chante Hulk Hogan !",
+        "thumbnail": {
+          "href": "http://fr.web.img2.acsta.net/videothumbnails/14/09/26/14/39/306034.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19548334&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/14/09/26/14/19548334_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/14/09/26/14/19548334_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19547033,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "description": "Fanzone N°247 - Pas de crossover Hulk vs Les Gardiens",
+        "thumbnail": {
+          "href": "http://fr.web.img4.acsta.net/videothumbnails/14/07/23/12/07/367653.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19547033&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/14/07/23/18/19547033_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/14/07/23/18/19547033_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19546624,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "description": "Fanzone N°236 - Hulk, futur Gardien de la Galaxie ?",
+        "thumbnail": {
+          "href": "http://fr.web.img1.acsta.net/videothumbnails/14/07/07/11/27/136011.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19546624&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/14/07/07/20/19546624_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/14/07/07/20/19546624_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19546313,
+        "type": {
+          "code": 31145,
+          "$": "Générique"
+        },
+        "description": "L'incroyable Hulk : la séquence d'introduction",
+        "thumbnail": {
+          "href": "http://fr.web.img5.acsta.net/videothumbnails/14/06/23/15/30/173754.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19546313&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/14/06/23/15/19546313_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/14/06/23/15/19546313_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19546237,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "description": "Fanzone N°226 - Le retour de Hulk en solo ?",
+        "thumbnail": {
+          "href": "http://fr.web.img6.acsta.net/videothumbnails/14/06/19/11/33/229746.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19546237&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/14/06/19/18/19546237_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/14/06/19/18/19546237_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19545060,
+        "type": {
+          "code": 31143,
+          "$": "Publicité"
+        },
+        "description": "Hulk face à Zlatan et Ronaldo dans la nouvelle pub Nike",
+        "thumbnail": {
+          "href": "http://fr.web.img1.acsta.net/videothumbnails/14/04/29/18/59/554117.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19545060&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/51/14/04/29/19/19545060_sd_013.mp4",
+            "href": "http://fr.vid.webpv.240p.acsta.net/51/14/04/29/19/19545060_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19536949,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "description": "Hulk et les agents du S.M.A.S.H - saison 1 Bande-annonce VO",
+        "thumbnail": {
+          "href": "http://fr.web.img2.acsta.net/videothumbnails/195/369/19536949_20130809103454507.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19536949&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/33/13/08/09/10/19536949_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/33/13/08/09/10/19536949_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19503421,
+        "type": {
+          "code": 31004,
+          "$": "Extrait vidéo"
+        },
+        "description": "L'Incroyable Hulk - saison 4 Extrait vidéo VO",
+        "thumbnail": {
+          "href": "http://fr.web.img5.acsta.net/medias/nmedia/18/35/81/94/19503421_ex1_vo.jpg"
+        },
+        "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19503421&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe></div>",
+        "rendition": [
+          {
+            "path": "/nmedia/s3/33/18/35/81/94/19503421_sd_013.mp4",
+            "href": "http://fr.vid.m.240p.acsta.net/nmedia/s3/33/18/35/81/94/19503421_sd_013.mp4",
+            "format": {
+              "code": 30022,
+              "$": "H264"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
