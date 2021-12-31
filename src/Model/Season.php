@@ -5,11 +5,11 @@ namespace Scraper\ScraperAllocine\Model;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Broadcast;
 use Scraper\ScraperAllocine\Model\Miscellaneous\CastMember;
 use Scraper\ScraperAllocine\Model\Miscellaneous\DefaultMedia;
-use Scraper\ScraperAllocine\Model\Miscellaneous\Image;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Link;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Media;
 use Scraper\ScraperAllocine\Model\Miscellaneous\OriginalChannel;
 use Scraper\ScraperAllocine\Model\Miscellaneous\ParentSeries;
+use Scraper\ScraperAllocine\Model\Miscellaneous\Picture;
 use Scraper\ScraperAllocine\Model\Miscellaneous\ProductionStatus;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Statistics;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Trailer;
@@ -28,12 +28,12 @@ final class Season
     public DefaultMedia $defaultMedia;
     public string $synopsisShort;
     public string $synopsis;
-    public Image $picture;
+    public Picture $picture;
     public Trailer $trailer;
     public string $trailerEmbed;
-    public bool $hasSVOD;
-    public bool $hasBluRay;
-    public bool $hasDVD;
+    public int $hasSVOD;
+    public int $hasBluRay;
+    public int $hasDVD;
     /** @var array<CastMember> */
     public array $castMember = [];
     /** @var array<Episode> */
@@ -72,7 +72,7 @@ final class Season
         return $this;
     }
 
-    public function setPicture(Image $picture): self
+    public function setPicture(Picture $picture): self
     {
         $this->picture = $picture;
 
