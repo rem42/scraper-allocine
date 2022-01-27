@@ -4,5 +4,6 @@ namespace Scraper\ScraperAllocine\Model\Miscellaneous;
 
 final class Version extends Type
 {
-    public int $original;
+    /** @var int|bool */
+    public $original;
 }

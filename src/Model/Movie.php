@@ -52,9 +52,9 @@ final class Movie
     public Poster $poster;
     public Trailer $trailer;
     public string $trailerEmbed;
-    public string $hasVOD;
-    public string $hasBluRay;
-    public string $hasDVD;
+    public int $hasVOD    = 0;
+    public int $hasBluRay = 0;
+    public int $hasDVD    = 0;
     public string $hasBroadcast;
     public string $hasShowtime;
     public \DateTime $dvdReleaseDate;

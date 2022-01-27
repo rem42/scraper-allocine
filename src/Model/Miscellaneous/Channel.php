@@ -6,10 +6,10 @@ final class Channel
 {
     public int $code;
     public string $name;
-    public Image $logo;
+    public Logo $logo;
     public CountryType $country;
 
-    public function setLogo(Image $logo): self
+    public function setLogo(Logo $logo): self
     {
         $this->logo = $logo;
 

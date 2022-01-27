@@ -2,32 +2,18 @@
 
 namespace Scraper\ScraperAllocine\Tests\Request;
 
-use PHPUnit\Framework\TestCase;
-use Scraper\Scraper\Client;
 use Scraper\ScraperAllocine\Model\Movie;
 use Scraper\ScraperAllocine\Model\SearchMovie;
 use Scraper\ScraperAllocine\Request\AllocineSearchMovieRequest;
-use Symfony\Contracts\HttpClient\HttpClientInterface;
-use Symfony\Contracts\HttpClient\ResponseInterface;
 
 /**
  * @internal
  */
-final class AllocineSearchMovieRequestTest extends TestCase
+final class AllocineSearchMovieRequestTest extends AbtractRequestTest
 {
     public function testAllocineSearchMovieRequest(): void
     {
-        $responseInterface = $this->createMock(ResponseInterface::class);
-        $responseInterface
-            ->method('getStatusCode')->willReturn(200);
-        $responseInterface
-            ->method('getContent')->willReturn(file_get_contents(__DIR__ . '/../Fixtures/search_movie.json'))
-        ;
-        $httpClient = $this->createMock(HttpClientInterface::class);
-        $httpClient
-            ->method('request')->willReturn($responseInterface)
-        ;
-        $client = new Client($httpClient);
+        $client = $this->getClient('search_movie.json');
 
         $request = new AllocineSearchMovieRequest('partner', 'hash');
         $request->setQuery('marvel');

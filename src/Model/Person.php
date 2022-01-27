@@ -5,6 +5,7 @@ namespace Scraper\ScraperAllocine\Model;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Activity;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Link;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Nationality;
+use Scraper\ScraperAllocine\Model\Miscellaneous\Picture;
 
 final class Person
 {
@@ -16,7 +17,7 @@ final class Person
     public array $nationality = [];
     /** @var array<Link> */
     public array $link = [];
-    public string $picture;
+    public Picture $picture;
     public string $role;
 
     public function addActivity(Activity $activity): self

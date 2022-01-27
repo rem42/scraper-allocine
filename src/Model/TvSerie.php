@@ -8,7 +8,6 @@ use Scraper\ScraperAllocine\Model\Miscellaneous\CastMember;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Feature;
 use Scraper\ScraperAllocine\Model\Miscellaneous\FestivalAward;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Genre;
-use Scraper\ScraperAllocine\Model\Miscellaneous\Image;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Link;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Media;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Nationality;
@@ -21,6 +20,7 @@ use Scraper\ScraperAllocine\Model\Miscellaneous\Review;
 use Scraper\ScraperAllocine\Model\Miscellaneous\SeriesType;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Statistics;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Tag;
+use Scraper\ScraperAllocine\Model\Miscellaneous\TopBanner;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Trailer;
 use Scraper\ScraperAllocine\Model\Miscellaneous\Trivia;
 
@@ -42,9 +42,9 @@ final class TvSerie
     public int $episodeCount;
     public int $lastSeasonNumber;
     public int $yearStart;
-    public bool $hasBluRay;
-    public bool $hasDVD;
-    public bool $hasBroadcast;
+    public int $hasBluRay;
+    public int $hasDVD;
+    public int $hasBroadcast;
     /** @var array<Nationality> */
     public array $nationality = [];
     /** @var array<Genre> */
@@ -57,7 +57,7 @@ final class TvSerie
     public Poster $poster;
     public Trailer $trailer;
     public string $trailerEmbed;
-    public Image $topBanner;
+    public TopBanner $topBanner;
     /** @var array<Link> */
     public array $link = [];
     /** @var array<Media> */
@@ -166,7 +166,7 @@ final class TvSerie
         return $this;
     }
 
-    public function setTopBanner(Image $topBanner): self
+    public function setTopBanner(TopBanner $topBanner): self
     {
         $this->topBanner = $topBanner;
 
