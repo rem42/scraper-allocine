@@ -7,10 +7,7 @@ use Scraper\ScraperAllocine\Exception\AllocineException;
 
 abstract class AbstractAllocineApi extends AbstractApi
 {
-    /**
-     * @return array|bool|mixed|object|object[]|string
-     */
-    public function execute()
+    public function execute(): object|array|bool|string
     {
         $content = $this->response->getContent();
 
@@ -22,6 +19,7 @@ abstract class AbstractAllocineApi extends AbstractApi
 
         $jsonContent = json_encode($this->getContent($content), \JSON_THROW_ON_ERROR);
 
+        /* @phpstan-ignore-next-line */
         return $this->serializer->deserialize($jsonContent, $this->getType(), 'json');
     }
 
