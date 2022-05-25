@@ -21,7 +21,7 @@ abstract class AllocineRequest extends ScraperRequest implements RequestQuery
 
     protected string $path = '';
 
-    //protected string $mediaFmt = 'mp4-best';
+    // protected string $mediaFmt = 'mp4-best';
     protected string $mediaFmt = 'mp4-lc:m';
 
     private string $partner;
