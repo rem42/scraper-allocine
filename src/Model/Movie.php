@@ -55,8 +55,8 @@ final class Movie
     public int $hasVOD    = 0;
     public int $hasBluRay = 0;
     public int $hasDVD    = 0;
-    public string $hasBroadcast;
-    public string $hasShowtime;
+    public int $hasBroadcast = 0;
+    public int $hasShowtime = 0;
     public \DateTime $dvdReleaseDate;
     public \DateTime $bluRayReleaseDate;
     /** @var array<Link> */

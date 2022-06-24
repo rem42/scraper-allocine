@@ -1,0 +1,3817 @@
+{
+  "movie": {
+    "code": 211012,
+    "movieType": {
+      "code": 4002,
+      "$": "Long-métrage"
+    },
+    "originalTitle": "The Batman",
+    "title": "The Batman",
+    "universe": "DC Warner",
+    "keywords": "Solo Batman Movie Warners Solo Batman Movie Warner Batman Reboot The Batman (Warner Batman Reboot) The Batman Matt Reeves Robert Pattinson ",
+    "productionYear": 2022,
+    "nationality": [
+      {
+        "code": 5002,
+        "$": "U.S.A."
+      }
+    ],
+    "genre": [
+      {
+        "code": 13025,
+        "$": "Action"
+      },
+      {
+        "code": 13018,
+        "$": "Policier"
+      },
+      {
+        "code": 13023,
+        "$": "Thriller"
+      }
+    ],
+    "release": {
+      "releaseDate": "2022-03-02",
+      "country": {
+        "code": 5001,
+        "$": "France"
+      },
+      "releaseState": {
+        "code": 3004,
+        "$": "Sortie en salle"
+      },
+      "distributor": {
+        "code": 929,
+        "name": "Warner Bros. France"
+      }
+    },
+    "runtime": 10620,
+    "color": {
+      "code": 12001,
+      "$": "Couleur"
+    },
+    "language": [
+      {
+        "code": 6002,
+        "$": "Anglais"
+      }
+    ],
+    "synopsis": "Deux années à arpenter les rues en tant que Batman et à insuffler la peur chez les criminels ont mené Bruce Wayne au coeur des ténèbres de Gotham City. Avec seulement quelques alliés de confiance - Alfred Pennyworth, le lieutenant James Gordon - parmi le réseau corrompu de fonctionnaires et de personnalités de la ville, le justicier solitaire s'est imposé comme la seule incarnation de la vengeance parmi ses concitoyens. Lorsqu'un tueur s'en prend à l'élite de Gotham par une série de machinations sadiques, une piste d'indices cryptiques envoie le plus grand détective du monde sur une enquête dans la pègre, où il rencontre des personnages tels que Selina Kyle, alias Catwoman, Oswald Cobblepot, alias le Pingouin, Carmine Falcone et Edward Nashton, alias l’Homme-Mystère. Alors que les preuves s’accumulent et que l'ampleur des plans du coupable devient clair, Batman doit forger de nouvelles relations, démasquer le coupable et rétablir un semblant de justice au milieu de l’abus de pouvoir et de corruption sévissant à Gotham City depuis longtemps.",
+    "synopsisShort": "Lorsqu'un tueur s'en prend à l'élite de Gotham par une série de machinations sadiques, une piste d'indices cryptiques envoie Bruce Wayne alias Batman sur une enquête dans la pègre, où il rencontre des personnages tels que Selina Kyle, alias Catwoman, Oswald Cobblepot, alias le Pingouin, Carmine Falcone et Edward Nashton, alias l’Homme-Mystère.",
+    "castingShort": {
+      "directors": "Matt Reeves",
+      "actors": "Robert Pattinson, Zoë Kravitz, Paul Dano, Jeffrey Wright, John Turturro"
+    },
+    "castMember": [
+      {
+        "person": {
+          "code": 47801,
+          "name": "Matt Reeves"
+        },
+        "activity": {
+          "code": 8002,
+          "$": "Réalisateur"
+        },
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/17/07/12/10/13/389124.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/17/07/12/10/13/389124.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 97604,
+          "name": "Robert Pattinson"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Bruce Wayne / Batman",
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/17/05/29/13/41/530000.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 200576,
+          "name": "Zoë Kravitz"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Actrice"
+        },
+        "role": "Selina Kyle / Catwoman",
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/20/01/07/12/54/3975258.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/20/01/07/12/54/3975258.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 90379,
+          "name": "Paul Dano"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Edward Nashton / The Riddler",
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/20/02/24/16/11/1210686.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/20/02/24/16/11/1210686.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 22901,
+          "name": "Jeffrey Wright"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Commissaire Gordon",
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/15/09/28/16/44/567950.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/15/09/28/16/44/567950.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 14017,
+          "name": "John Turturro"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Carmine Falcone",
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/15/06/24/15/00/307466.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/15/06/24/15/00/307466.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 41623,
+          "name": "Colin Farrell"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Le Pingouin ",
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/15/05/15/15/43/007127.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/15/05/15/15/43/007127.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 891573,
+          "name": "Jayme Lawson"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Actrice"
+        },
+        "role": "Bella Reál"
+      },
+      {
+        "person": {
+          "code": 19053,
+          "name": "Andy Serkis"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Alfred Pennyworth",
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/17/12/11/12/30/5609551.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/17/12/11/12/30/5609551.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 64733,
+          "name": "Peter Sarsgaard"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "District Attorney Gil Colson",
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/15/12/23/14/20/157530.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/15/12/23/14/20/157530.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 646346,
+          "name": "Barry Keoghan"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Prisonnier Arkham",
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/17/05/24/15/24/556091.jpg",
+          "href": "http://fr.web.img1.acsta.net/pictures/17/05/24/15/24/556091.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 32776,
+          "name": "Rupert Penry-Jones"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Mayor Don Mitchell Jr",
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/medias/nmedia/18/35/81/54/20044241.jpg",
+          "href": "http://fr.web.img6.acsta.net/medias/nmedia/18/35/81/54/20044241.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 14011,
+          "name": "Con O'Neill"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Chief Mackenzie Bock",
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/19/09/18/16/12/0486362.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/19/09/18/16/12/0486362.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 101445,
+          "name": "Alex Ferns"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Commissioner Pete Savage"
+      },
+      {
+        "person": {
+          "code": 231097,
+          "name": "Max Carver"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/14/06/25/15/47/235633.jpg",
+          "href": "http://fr.web.img1.acsta.net/pictures/14/06/25/15/47/235633.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 231096,
+          "name": "Charlie Carver"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/20/09/21/09/39/2277745.jpg",
+          "href": "http://fr.web.img1.acsta.net/pictures/20/09/21/09/39/2277745.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 539025,
+          "name": "Mark Killeen"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Vinnie"
+      },
+      {
+        "person": {
+          "code": 954577,
+          "name": "Lorraine Tai"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Actrice"
+        },
+        "role": "Cheri"
+      },
+      {
+        "person": {
+          "code": 829352,
+          "name": "Janine Harouni"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Actrice"
+        },
+        "role": "Carla"
+      },
+      {
+        "person": {
+          "code": 556072,
+          "name": "Leemore Marrett Jr."
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Gotham City Cop"
+      },
+      {
+        "person": {
+          "code": 73949,
+          "name": "Amanda Blake"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Actrice"
+        },
+        "role": "Command Crisis Tech"
+      },
+      {
+        "person": {
+          "code": 757304,
+          "name": "Vic Waghorn"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Gotham Fire Chief Sheddon"
+      },
+      {
+        "person": {
+          "code": 944603,
+          "name": "Douglas Bunn"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Gangster"
+      },
+      {
+        "person": {
+          "code": 672181,
+          "name": "Amy Clare Beales"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Actrice"
+        },
+        "role": "Special Agent 2",
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/14/07/22/15/01/288058.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/14/07/22/15/01/288058.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 441050,
+          "name": "Bernardo Santos"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "FBI Agent"
+      },
+      {
+        "person": {
+          "code": 956199,
+          "name": "Philip Shaun McGuinness"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Elevator Guard"
+      },
+      {
+        "person": {
+          "code": 642012,
+          "name": "Kosha Engler"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Actrice"
+        },
+        "role": "Mitchell's Wife "
+      },
+      {
+        "person": {
+          "code": 681456,
+          "name": "Bharat Mistri"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "Mourner in Black Suit"
+      },
+      {
+        "person": {
+          "code": 811435,
+          "name": "Juke Hardy (II)"
+        },
+        "activity": {
+          "code": 8001,
+          "$": "Acteur"
+        },
+        "role": "EMS Paramedic"
+      },
+      {
+        "person": {
+          "code": 47793,
+          "name": "Michael E. Uslan"
+        },
+        "activity": {
+          "code": 8061,
+          "$": "Producteur délégué"
+        }
+      },
+      {
+        "person": {
+          "code": 47801,
+          "name": "Matt Reeves"
+        },
+        "activity": {
+          "code": 8029,
+          "$": "Producteur"
+        },
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/17/07/12/10/13/389124.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/17/07/12/10/13/389124.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 187636,
+          "name": "Dylan Clark"
+        },
+        "activity": {
+          "code": 8029,
+          "$": "Producteur"
+        }
+      },
+      {
+        "person": {
+          "code": 195099,
+          "name": "Simon Emanuel"
+        },
+        "activity": {
+          "code": 8061,
+          "$": "Producteur délégué"
+        }
+      },
+      {
+        "person": {
+          "code": 79248,
+          "name": "Walter Hamada"
+        },
+        "activity": {
+          "code": 8061,
+          "$": "Producteur délégué"
+        }
+      },
+      {
+        "person": {
+          "code": 674568,
+          "name": "Chantal Nong"
+        },
+        "activity": {
+          "code": 8061,
+          "$": "Producteur délégué"
+        }
+      },
+      {
+        "person": {
+          "code": 47801,
+          "name": "Matt Reeves"
+        },
+        "activity": {
+          "code": 8004,
+          "$": "Scénariste"
+        },
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/17/07/12/10/13/389124.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/17/07/12/10/13/389124.jpg"
+        }
+      },
+      {
+        "person": {
+          "code": 202258,
+          "name": "Peter Craig"
+        },
+        "activity": {
+          "code": 8004,
+          "$": "Scénariste"
+        }
+      },
+      {
+        "person": {
+          "code": 50468,
+          "name": "James Chinlund"
+        },
+        "activity": {
+          "code": 8059,
+          "$": "Chef décorateur"
+        }
+      },
+      {
+        "person": {
+          "code": 72009,
+          "name": "William Hoy"
+        },
+        "activity": {
+          "code": 8072,
+          "$": "Chef monteur"
+        }
+      },
+      {
+        "person": {
+          "code": 102258,
+          "name": "Jacqueline Durran"
+        },
+        "activity": {
+          "code": 8220,
+          "$": "Chef costumier"
+        }
+      },
+      {
+        "person": {
+          "code": 126523,
+          "name": "Greig Fraser"
+        },
+        "activity": {
+          "code": 8037,
+          "$": "Directeur de la photographie"
+        }
+      },
+      {
+        "person": {
+          "code": 167465,
+          "name": "Grant Armstrong"
+        },
+        "activity": {
+          "code": 8042,
+          "$": "Directeur artistique"
+        }
+      },
+      {
+        "person": {
+          "code": 190877,
+          "name": "Lucy Bevan"
+        },
+        "activity": {
+          "code": 8041,
+          "$": "Directrice du casting"
+        }
+      },
+      {
+        "person": {
+          "code": 210439,
+          "name": "Dan Lemmon"
+        },
+        "activity": {
+          "code": 8060,
+          "$": "Superviseur des effets visuels"
+        }
+      },
+      {
+        "person": {
+          "code": 216190,
+          "name": "Dominic Tuohy"
+        },
+        "activity": {
+          "code": 8182,
+          "$": "Coordinateurs effets visuels "
+        }
+      },
+      {
+        "person": {
+          "code": 426040,
+          "name": "Rob Hunt"
+        },
+        "activity": {
+          "code": 8051,
+          "$": "Cascadeur"
+        }
+      },
+      {
+        "person": {
+          "code": 575424,
+          "name": "Will Newton"
+        },
+        "activity": {
+          "code": 8101,
+          "$": "Décorateur"
+        }
+      },
+      {
+        "person": {
+          "code": 125820,
+          "name": "Cindy Tolan"
+        },
+        "activity": {
+          "code": 8041,
+          "$": "Directrice du casting"
+        }
+      },
+      {
+        "person": {
+          "code": 673097,
+          "name": "Andy Lister"
+        },
+        "activity": {
+          "code": 8051,
+          "$": "Cascadeur"
+        }
+      },
+      {
+        "person": {
+          "code": 792654,
+          "name": "Glyn Dillon"
+        },
+        "activity": {
+          "code": 8220,
+          "$": "Chef costumier"
+        }
+      },
+      {
+        "person": {
+          "code": 829441,
+          "name": "Joseph Hiura"
+        },
+        "activity": {
+          "code": 8042,
+          "$": "Directeur artistique"
+        }
+      },
+      {
+        "person": {
+          "code": 897396,
+          "name": "Tyler Nelson (II)"
+        },
+        "activity": {
+          "code": 8072,
+          "$": "Chef monteur"
+        }
+      },
+      {
+        "person": {
+          "code": 958458,
+          "name": "Joe Hiura"
+        },
+        "activity": {
+          "code": 8101,
+          "$": "Décorateur"
+        }
+      },
+      {
+        "person": {
+          "code": 48009,
+          "name": "Paul Weston"
+        },
+        "activity": {
+          "code": 8051,
+          "$": "Cascadeur"
+        }
+      },
+      {
+        "person": {
+          "code": 110141,
+          "name": "Joe Howard"
+        },
+        "activity": {
+          "code": 8042,
+          "$": "Directeur artistique"
+        }
+      },
+      {
+        "person": {
+          "code": 163903,
+          "name": "David Crossman"
+        },
+        "activity": {
+          "code": 8220,
+          "$": "Chef costumier"
+        }
+      },
+      {
+        "person": {
+          "code": 426611,
+          "name": "Gary Jopling"
+        },
+        "activity": {
+          "code": 8042,
+          "$": "Directeur artistique"
+        }
+      },
+      {
+        "person": {
+          "code": 731304,
+          "name": "Matthew Kerly"
+        },
+        "activity": {
+          "code": 8042,
+          "$": "Directeur artistique"
+        }
+      },
+      {
+        "person": {
+          "code": 405033,
+          "name": "James Lewis"
+        },
+        "activity": {
+          "code": 8042,
+          "$": "Directeur artistique"
+        }
+      },
+      {
+        "person": {
+          "code": 575424,
+          "name": "Will Newton"
+        },
+        "activity": {
+          "code": 8042,
+          "$": "Directeur artistique"
+        }
+      },
+      {
+        "person": {
+          "code": 99790,
+          "name": "Michael Giacchino"
+        },
+        "activity": {
+          "code": 8003,
+          "$": "Compositeur"
+        },
+        "picture": {
+          "name": "Photo The Batman",
+          "path": "/pictures/16/10/21/15/59/114570.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/16/10/21/15/59/114570.jpg"
+        }
+      }
+    ],
+    "movieCertificate": {
+      "certificate": {
+        "code": 14035,
+        "$": "Avertissement : des scènes, des propos ou des images peuvent heurter la sensibilité des spectateurs"
+      }
+    },
+    "poster": {
+      "name": "Affiche The Batman",
+      "href": "http://fr.web.img5.acsta.net/pictures/22/02/16/17/42/3125788.jpg"
+    },
+    "trailer": {
+      "name": "Bande-Annonce The Batman",
+      "code": 19595349,
+      "href": "https://www.allocine.fr/blogvision/19595349"
+    },
+    "trailerEmbed": "<div id='ACEmbed'><iframe src='https://www.allocine.fr/_video/iblogvision.aspx?cmedia=19595349&amp;isApp=true' style='width:480px; height:270px' frameborder='0' allowfullscreen='true'></iframe><br /><a href=\"http://www.allocine.fr/film/fichefilm_gen_cfilm=211012.html\" target=\"_blank\">The Batman</a></div>",
+    "hasBluRay": 1,
+    "hasDVD": 1,
+    "hasShowtime": 1,
+    "dvdReleaseDate": "2022-07-06",
+    "bluRayReleaseDate": "2022-07-06",
+    "link": [
+      {
+        "rel": "aco:web",
+        "name": "The Batman",
+        "href": "http://www.allocine.fr/film/fichefilm_gen_cfilm=211012.html"
+      },
+      {
+        "rel": "aco:web_casting",
+        "name": "Casting The Batman",
+        "href": "http://www.allocine.fr/film/fichefilm-211012/casting/"
+      },
+      {
+        "rel": "aco:web_trivia",
+        "name": "Anecdotes The Batman",
+        "href": "http://www.allocine.fr/film/fichefilm-211012/secrets-tournage/"
+      },
+      {
+        "rel": "aco:web_showtimes",
+        "name": "Séances The Batman",
+        "href": "http://www.allocine.fr/seance/film-211012/"
+      },
+      {
+        "rel": "aco:web_publicreviews",
+        "name": "Critiques Spectateurs The Batman",
+        "href": "http://www.allocine.fr/film/fichefilm-211012/critiques/spectateurs/"
+      },
+      {
+        "rel": "aco:web_pressreviews",
+        "name": "Critiques presse The Batman",
+        "href": "http://www.allocine.fr/film/fichefilm-211012/critiques/presse/"
+      },
+      {
+        "rel": "aco:web_shots",
+        "name": "Photos The Batman",
+        "href": "http://www.allocine.fr/film/fichefilm-211012/photos/"
+      },
+      {
+        "rel": "aco:web_trailers",
+        "name": "Bandes annonces The Batman",
+        "href": "http://www.allocine.fr/videos/fichefilm-211012/toutes/"
+      },
+      {
+        "rel": "aco:web_products",
+        "name": "The Batman",
+        "href": "http://www.allocine.fr/film/fichefilm-211012/vod-dvd/"
+      }
+    ],
+    "media": [
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21898281,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/03/01/10/43/2242028.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/22/03/01/10/43/2242028.jpg"
+        },
+        "width": 978,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21898281"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21897959,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/28/11/25/0429526.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/22/02/28/11/25/0429526.jpg"
+        },
+        "width": 1029,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21897959"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21897952,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/28/11/25/5838345.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/22/02/28/11/25/5838345.jpg"
+        },
+        "width": 1500,
+        "height": 1125,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21897952"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21897947,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/28/11/04/1306318.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/02/28/11/04/1306318.jpg"
+        },
+        "width": 1500,
+        "height": 438,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21897947"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21897946,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/28/11/04/1289157.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/22/02/28/11/04/1289157.jpg"
+        },
+        "width": 1500,
+        "height": 438,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21897946"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21897938,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/28/10/54/2139825.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/02/28/10/54/2139825.jpg"
+        },
+        "width": 1013,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21897938"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894641,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/17/42/3125788.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/22/02/16/17/42/3125788.jpg"
+        },
+        "width": 1200,
+        "height": 1600,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894641"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894408,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/09/55/1843758.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/02/16/09/55/1843758.jpg"
+        },
+        "width": 1029,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894408"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894407,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/09/55/1829717.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/22/02/16/09/55/1829717.jpg"
+        },
+        "width": 1029,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894407"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21893184,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/11/09/48/4938819.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/22/02/11/09/48/4938819.jpg"
+        },
+        "width": 1080,
+        "height": 1350,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21893184"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21893183,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/11/09/48/4915419.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/02/11/09/48/4915419.jpg"
+        },
+        "width": 1136,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21893183"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21890583,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/02/11/11/5301221.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/02/02/11/11/5301221.jpg"
+        },
+        "width": 1012,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21890583"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21890582,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/02/11/11/5287181.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/02/02/11/11/5287181.jpg"
+        },
+        "width": 1012,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21890582"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21890581,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/02/11/11/5273141.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/22/02/02/11/11/5273141.jpg"
+        },
+        "width": 1012,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21890581"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21890580,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/02/02/11/12/2592800.jpg",
+          "href": "http://fr.web.img1.acsta.net/pictures/22/02/02/11/12/2592800.jpg"
+        },
+        "width": 1012,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21890580"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21888535,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/01/26/14/15/3654956.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/01/26/14/15/3654956.jpg"
+        },
+        "width": 1080,
+        "height": 1600,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21888535"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21887858,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/01/25/09/30/0347507.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/01/25/09/30/0347507.jpg"
+        },
+        "width": 1080,
+        "height": 1600,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21887858"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21886941,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/22/01/20/10/39/4327542.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/22/01/20/10/39/4327542.jpg"
+        },
+        "width": 1200,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21886941"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21882868,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/21/12/29/10/43/1996060.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/21/12/29/10/43/1996060.jpg"
+        },
+        "width": 844,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21882868"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21882867,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/21/12/29/10/43/1980460.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/21/12/29/10/43/1980460.jpg"
+        },
+        "width": 1500,
+        "height": 934,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21882867"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21870274,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/21/11/10/17/39/5549864.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/21/11/10/17/39/5549864.jpg"
+        },
+        "width": 1370,
+        "height": 2048,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21870274"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21863782,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/21/10/18/15/17/1747313.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/21/10/18/15/17/1747313.jpg"
+        },
+        "width": 1012,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21863782"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21863781,
+        "type": {
+          "code": 31001,
+          "$": "Affiche"
+        },
+        "title": "The Batman : Affiche",
+        "thumbnail": {
+          "path": "/pictures/21/10/18/15/17/1731713.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/21/10/18/15/17/1731713.jpg"
+        },
+        "width": 1012,
+        "height": 1500,
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21863781"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894437,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/5160849.jpg",
+          "href": "http://fr.web.img2.acsta.net/pictures/22/02/16/11/13/5160849.jpg"
+        },
+        "width": 1600,
+        "height": 669,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894437"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894436,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/5146810.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/02/16/11/13/5146810.jpg"
+        },
+        "width": 1600,
+        "height": 669,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894436"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894435,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/5132772.jpg",
+          "href": "http://fr.web.img2.acsta.net/pictures/22/02/16/11/13/5132772.jpg"
+        },
+        "width": 1600,
+        "height": 669,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894435"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894434,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/5118733.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/22/02/16/11/13/5118733.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894434"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894433,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/1976700.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/22/02/16/11/13/1976700.jpg"
+        },
+        "width": 1600,
+        "height": 684,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894433"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894432,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/1962659.jpg",
+          "href": "http://fr.web.img1.acsta.net/pictures/22/02/16/11/13/1962659.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894432"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894431,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/1947058.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/22/02/16/11/13/1947058.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894431"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894430,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo John Turturro",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/1933017.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/22/02/16/11/13/1933017.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894430"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 14017,
+              "name": "John Turturro",
+              "picture": {
+                "name": "Photo John Turturro",
+                "href": "http://fr.web.img6.acsta.net/pictures/15/06/24/15/00/307466.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894429,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson, Zoë Kravitz",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/1918976.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/22/02/16/11/13/1918976.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894429"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          },
+          {
+            "person": {
+              "code": 200576,
+              "name": "Zoë Kravitz",
+              "picture": {
+                "name": "Photo Zoë Kravitz",
+                "href": "http://fr.web.img5.acsta.net/pictures/20/01/07/12/54/3975258.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894428,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/1901815.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/02/16/11/13/1901815.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894428"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894427,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/1886214.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/22/02/16/11/13/1886214.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894427"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894426,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Peter Sarsgaard",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/1872173.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/22/02/16/11/13/1872173.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894426"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 64733,
+              "name": "Peter Sarsgaard",
+              "picture": {
+                "name": "Photo Peter Sarsgaard",
+                "href": "http://fr.web.img4.acsta.net/pictures/15/12/23/14/20/157530.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894425,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/1858132.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/22/02/16/11/13/1858132.jpg"
+        },
+        "width": 1600,
+        "height": 786,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894425"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894424,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/13/1839411.jpg",
+          "href": "http://fr.web.img2.acsta.net/pictures/22/02/16/11/13/1839411.jpg"
+        },
+        "width": 1600,
+        "height": 1069,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894424"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894423,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/09/1897155.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/22/02/16/11/09/1897155.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894423"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894422,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo John Turturro, Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/09/1883114.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/02/16/11/09/1883114.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894422"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 14017,
+              "name": "John Turturro",
+              "picture": {
+                "name": "Photo John Turturro",
+                "href": "http://fr.web.img6.acsta.net/pictures/15/06/24/15/00/307466.jpg"
+              }
+            }
+          },
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894421,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Colin Farrell",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/09/1869073.jpg",
+          "href": "http://fr.web.img2.acsta.net/pictures/22/02/16/11/09/1869073.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894421"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 41623,
+              "name": "Colin Farrell",
+              "picture": {
+                "name": "Photo Colin Farrell",
+                "href": "http://fr.web.img3.acsta.net/pictures/15/05/15/15/43/007127.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894420,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/09/1855032.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/22/02/16/11/09/1855032.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894420"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894419,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/09/1840991.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/02/16/11/09/1840991.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894419"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894418,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/09/1826951.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/22/02/16/11/09/1826951.jpg"
+        },
+        "width": 1600,
+        "height": 1091,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894418"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21894417,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Zoë Kravitz",
+        "thumbnail": {
+          "path": "/pictures/22/02/16/11/09/1811350.jpg",
+          "href": "http://fr.web.img5.acsta.net/pictures/22/02/16/11/09/1811350.jpg"
+        },
+        "width": 1600,
+        "height": 670,
+        "copyrightHolder": "2021 Warner Bros. Entertainment Inc. All Rights Reserved.",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21894417"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 200576,
+              "name": "Zoë Kravitz",
+              "picture": {
+                "name": "Photo Zoë Kravitz",
+                "href": "http://fr.web.img5.acsta.net/pictures/20/01/07/12/54/3975258.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21886971,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Andy Serkis, Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/22/01/20/13/01/3659566.jpg",
+          "href": "http://fr.web.img2.acsta.net/pictures/22/01/20/13/01/3659566.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21886971"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 19053,
+              "name": "Andy Serkis",
+              "picture": {
+                "name": "Photo Andy Serkis",
+                "href": "http://fr.web.img6.acsta.net/pictures/17/12/11/12/30/5609551.jpg"
+              }
+            }
+          },
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21885011,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Paul Dano",
+        "thumbnail": {
+          "path": "/pictures/22/01/11/11/02/5093662.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/22/01/11/11/02/5093662.jpg"
+        },
+        "width": 1600,
+        "height": 900,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21885011"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 90379,
+              "name": "Paul Dano",
+              "picture": {
+                "name": "Photo Paul Dano",
+                "href": "http://fr.web.img5.acsta.net/pictures/20/02/24/16/11/1210686.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21885010,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/22/01/11/11/02/5076502.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/22/01/11/11/02/5076502.jpg"
+        },
+        "width": 1600,
+        "height": 900,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21885010"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21885009,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo",
+        "thumbnail": {
+          "path": "/pictures/22/01/11/11/02/5060902.jpg",
+          "href": "http://fr.web.img1.acsta.net/pictures/22/01/11/11/02/5060902.jpg"
+        },
+        "width": 1600,
+        "height": 669,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21885009"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21885008,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Colin Farrell",
+        "thumbnail": {
+          "path": "/pictures/22/01/11/11/02/5045302.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/22/01/11/11/02/5045302.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21885008"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 41623,
+              "name": "Colin Farrell",
+              "picture": {
+                "name": "Photo Colin Farrell",
+                "href": "http://fr.web.img3.acsta.net/pictures/15/05/15/15/43/007127.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21885007,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson, Zoë Kravitz",
+        "thumbnail": {
+          "path": "/pictures/22/01/11/11/02/5029702.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/22/01/11/11/02/5029702.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21885007"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          },
+          {
+            "person": {
+              "code": 200576,
+              "name": "Zoë Kravitz",
+              "picture": {
+                "name": "Photo Zoë Kravitz",
+                "href": "http://fr.web.img5.acsta.net/pictures/20/01/07/12/54/3975258.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21885006,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Jeffrey Wright, Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/22/01/11/11/02/5012542.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/22/01/11/11/02/5012542.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21885006"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 22901,
+              "name": "Jeffrey Wright",
+              "picture": {
+                "name": "Photo Jeffrey Wright",
+                "href": "http://fr.web.img4.acsta.net/pictures/15/09/28/16/44/567950.jpg"
+              }
+            }
+          },
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21883450,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Zoë Kravitz",
+        "thumbnail": {
+          "path": "/pictures/22/01/03/08/12/1021274.jpg",
+          "href": "http://fr.web.img4.acsta.net/pictures/22/01/03/08/12/1021274.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21883450"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 200576,
+              "name": "Zoë Kravitz",
+              "picture": {
+                "name": "Photo Zoë Kravitz",
+                "href": "http://fr.web.img5.acsta.net/pictures/20/01/07/12/54/3975258.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21882092,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/21/12/23/11/03/1843141.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/21/12/23/11/03/1843141.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21882092"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21882091,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/21/12/23/11/03/1825981.jpg",
+          "href": "http://fr.web.img6.acsta.net/pictures/21/12/23/11/03/1825981.jpg"
+        },
+        "width": 1600,
+        "height": 1067,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21882091"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21863637,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/21/10/18/11/16/2781114.jpg",
+          "href": "http://fr.web.img2.acsta.net/pictures/21/10/18/11/16/2781114.jpg"
+        },
+        "width": 1600,
+        "height": 669,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21863637"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21863636,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Zoë Kravitz",
+        "thumbnail": {
+          "path": "/pictures/21/10/18/11/17/2451714.jpg",
+          "href": "http://fr.web.img3.acsta.net/pictures/21/10/18/11/17/2451714.jpg"
+        },
+        "width": 1600,
+        "height": 664,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21863636"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 200576,
+              "name": "Zoë Kravitz",
+              "picture": {
+                "name": "Photo Zoë Kravitz",
+                "href": "http://fr.web.img5.acsta.net/pictures/20/01/07/12/54/3975258.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21863635,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo",
+        "thumbnail": {
+          "path": "/pictures/21/10/18/11/16/2754594.jpg",
+          "href": "http://fr.web.img2.acsta.net/pictures/21/10/18/11/16/2754594.jpg"
+        },
+        "width": 1600,
+        "height": 669,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21863635"
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21752995,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/20/08/24/15/58/5613860.jpg",
+          "href": "http://fr.web.img2.acsta.net/pictures/20/08/24/15/58/5613860.jpg"
+        },
+        "width": 1600,
+        "height": 697,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21752995"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21752994,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/20/08/24/15/58/5599819.jpg",
+          "href": "http://fr.web.img1.acsta.net/pictures/20/08/24/15/58/5599819.jpg"
+        },
+        "width": 1600,
+        "height": 640,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21752994"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "picture",
+        "code": 0,
+        "rcode": 21752993,
+        "type": {
+          "code": 31006,
+          "$": "Photo"
+        },
+        "title": "The Batman : Photo Robert Pattinson",
+        "thumbnail": {
+          "path": "/pictures/20/08/24/15/58/5584219.jpg",
+          "href": "http://fr.web.img1.acsta.net/pictures/20/08/24/15/58/5584219.jpg"
+        },
+        "width": 1600,
+        "height": 713,
+        "copyrightHolder": " 2021 Warner Bros. Entertainment Inc. All Rights Reserved. / Jonathan Olley/™ & © DC Comics",
+        "link": [
+          {
+            "rel": "aco:web",
+            "href": "http://www.allocine.fr/film/fichefilm-211012/photos/detail/?cmediafile=21752993"
+          }
+        ],
+        "subject": [
+          {
+            "person": {
+              "code": 97604,
+              "name": "Robert Pattinson",
+              "picture": {
+                "name": "Photo Robert Pattinson",
+                "href": "http://fr.web.img3.acsta.net/pictures/17/05/29/13/41/530000.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "class": "video",
+        "code": 19595349,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCiné Zap"
+        },
+        "title": "The Batman Bande-annonce VF",
+        "titleShort": "",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 159,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 355792
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/22/01/14/12/04/3113527.jpg",
+          "href": "http://fr.web.img4.acsta.net/videothumbnails/22/01/14/12/04/3113527.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19595192,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCiné Zap"
+        },
+        "title": "The Batman Bande-annonce (3) VO",
+        "titleShort": "",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 159,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 65997
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/21/12/28/09/50/5782863.jpg",
+          "href": "http://fr.web.img4.acsta.net/videothumbnails/21/12/28/09/50/5782863.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19589599,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCiné Zap"
+        },
+        "title": "The Batman Bande-annonce (4) VO",
+        "titleShort": "",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 143,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 323956
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/20/08/23/06/37/1765126.png",
+          "href": "http://fr.web.img4.acsta.net/videothumbnails/20/08/23/06/37/1765126.png"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19594340,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCiné Zap"
+        },
+        "title": "The Batman Bande-annonce (5) VO",
+        "titleShort": "",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 158,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 103288
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/21/10/16/22/57/3156672.jpg",
+          "href": "http://fr.web.img4.acsta.net/videothumbnails/21/10/16/22/57/3156672.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19594342,
+        "type": {
+          "code": 31003,
+          "$": "Bande-annonce"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCiné Zap"
+        },
+        "title": "The Batman Bande-annonce (5) VF",
+        "titleShort": "",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 158,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 9543
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/21/10/18/09/56/5709127.jpg",
+          "href": "http://fr.web.img5.acsta.net/videothumbnails/21/10/18/09/56/5709127.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19587708,
+        "type": {
+          "code": 31016,
+          "$": "Teaser"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCiné Zap"
+        },
+        "title": "The Batman Teaser VO",
+        "titleShort": "The Batman Teaser VO",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 55,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 131028
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/20/04/10/10/21/3532105.jpg",
+          "href": "http://fr.web.img1.acsta.net/videothumbnails/20/04/10/10/21/3532105.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19572716,
+        "type": {
+          "code": 31005,
+          "$": "Vidéo clip"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCiné Zap"
+        },
+        "title": "L'intro de l'univers Warner/DC",
+        "titleShort": "L'intro de l'univers Warner/DC",
+        "version": {
+          "code": 6025,
+          "original": 0,
+          "$": "Muet"
+        },
+        "runtime": 16,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 424581
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/17/07/04/11/05/573562.jpg",
+          "href": "http://fr.web.img1.acsta.net/videothumbnails/17/07/04/11/05/573562.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19595673,
+        "type": {
+          "code": 31005,
+          "$": "Vidéo clip"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCiné Zap"
+        },
+        "title": "Les films DC de 2022 : The Batman / Black Adam / The Flash / Aquaman 2",
+        "titleShort": "Les films DC de 2022 : The Batman / Black Adam / The Flash / Aquaman 2",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 60,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 13047
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/22/02/13/22/25/2655932.jpg",
+          "href": "http://fr.web.img6.acsta.net/videothumbnails/22/02/13/22/25/2655932.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19595837,
+        "type": {
+          "code": 31007,
+          "$": "Interview"
+        },
+        "acShow": {
+          "code": 0,
+          "nameShort": "allocinezap",
+          "$": "AlloCiné Zap"
+        },
+        "title": "The Batman vu par son réalisateur Matt Reeves",
+        "titleShort": "The Batman vu par son réalisateur Matt Reeves",
+        "version": {
+          "code": 6002,
+          "original": 0,
+          "$": "Anglais"
+        },
+        "runtime": 251,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 1846
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/22/03/01/11/30/3798038.jpg",
+          "href": "http://fr.web.img4.acsta.net/videothumbnails/22/03/01/11/30/3798038.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19565068,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°636 - C'est la rentrée pour Batman !",
+        "titleShort": "C'est la rentrée pour Batman !",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 443,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 25162
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/16/09/19/16/00/116625.jpg",
+          "href": "http://fr.web.img1.acsta.net/videothumbnails/16/09/19/16/00/116625.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19565421,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°648 - Son nom est Batman... THE Batman",
+        "titleShort": "Son nom est Batman... THE Batman",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 455,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 18914
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/16/10/05/12/38/083049.jpg",
+          "href": "http://fr.web.img4.acsta.net/videothumbnails/16/10/05/12/38/083049.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19568282,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°699 - Fanzone N°699 : Batman à nouveau orphelin",
+        "titleShort": "Fanzone N°699 : Batman à nouveau orphelin",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 468,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 19720
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/17/02/02/17/21/281079.jpg",
+          "href": "http://fr.web.img3.acsta.net/videothumbnails/17/02/02/17/21/281079.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19575463,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°751 - Et après Justice League, on fait quoi ?",
+        "titleShort": "Et après Justice League, on fait quoi ? ",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 257,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 21077
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/17/11/24/16/19/0040075.jpg",
+          "href": "http://fr.web.img2.acsta.net/videothumbnails/17/11/24/16/19/0040075.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19579007,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°774 - Flash, Batman, Aquaman... DC dévoile sa stratégie",
+        "titleShort": "Flash, Batman, Aquaman... DC dévoile sa stratégie",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 341,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 8414
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/18/06/22/16/34/3939564.jpg",
+          "href": "http://fr.web.img1.acsta.net/videothumbnails/18/06/22/16/34/3939564.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19583051,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°800 - Birds of Prey, The Suicide Squad... DC Comics place ses pions",
+        "titleShort": "Birds of Prey, The Suicide Squad... DC Comics place ses pions",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 492,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 48218
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/19/03/14/16/42/5527451.jpg",
+          "href": "http://fr.web.img1.acsta.net/videothumbnails/19/03/14/16/42/5527451.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19584546,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°814 - Robert Pattinson fera-t-il un bon Batman ?",
+        "titleShort": "Robert Pattinson fera-t-il un bon Batman ?",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 304,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 9713
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/19/06/20/14/13/1768791.jpg",
+          "href": "http://fr.web.img1.acsta.net/videothumbnails/19/06/20/14/13/1768791.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19586160,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°831 - The Batman a trouvé sa Catwoman",
+        "titleShort": "The Batman a trouvé sa Catwoman",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 64,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 2681
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/19/10/16/17/18/0723720.jpg",
+          "href": "http://fr.web.img3.acsta.net/videothumbnails/19/10/16/17/18/0723720.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19586213,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°832 - Fanzone N°832 - Paul Dano en Homme-Mystère ?",
+        "titleShort": "Fanzone N°832 - Paul Dano en Homme-Mystère ?",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 62,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 2509
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/19/10/18/17/21/4490528.jpg",
+          "href": "http://fr.web.img4.acsta.net/videothumbnails/19/10/18/17/21/4490528.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19586449,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°840 - The Batman : un Pingouin nommé Colin Farrell ?",
+        "titleShort": "The Batman : un Pingouin nommé Colin Farrell ?",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 114,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 2420
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/19/11/06/16/30/2180307.jpg",
+          "href": "http://fr.web.img2.acsta.net/videothumbnails/19/11/06/16/30/2180307.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19587494,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°866 - Top départ pour \"The Batman\" !",
+        "titleShort": "Top départ pour \"The Batman\" !",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 114,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 2772
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/20/01/31/15/56/0930406.jpg",
+          "href": "http://fr.web.img5.acsta.net/videothumbnails/20/01/31/15/56/0930406.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19587671,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°871 - Le Batman de Robert Pattinson sort de l'ombre",
+        "titleShort": "Le Batman de Robert Pattinson sort de l'ombre",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 161,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 14356
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/20/02/14/14/57/3640150.jpg",
+          "href": "http://fr.web.img4.acsta.net/videothumbnails/20/02/14/14/57/3640150.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19589524,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°884 - Cap sur le DC FanDome avec Batman, Flash, la Justice League…",
+        "titleShort": "Cap sur le DC FanDome avec Batman, Flash, la Justice League…",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 426,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 9991
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/20/08/14/14/58/1606149.jpg",
+          "href": "http://fr.web.img1.acsta.net/videothumbnails/20/08/14/14/58/1606149.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19594435,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°888 - The Batman : 4 choses à retenir de la bande-annonce qui tabasse",
+        "titleShort": "The Batman : 4 choses à retenir de la bande-annonce qui tabasse",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 213,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 877
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/21/10/22/17/37/0280293.jpg",
+          "href": "http://fr.web.img3.acsta.net/videothumbnails/21/10/22/17/37/0280293.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19595234,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°898 - Pleins feux sur 10 films attendus pour 2022 !",
+        "titleShort": "Pleins feux sur 10 films attendus pour 2022 !",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 404,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 860
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/22/01/04/17/38/0531539.jpg",
+          "href": "http://fr.web.img1.acsta.net/videothumbnails/22/01/04/17/38/0531539.jpg"
+        }
+      },
+      {
+        "class": "video",
+        "code": 19595889,
+        "type": {
+          "code": 31011,
+          "$": "Emission d'actu ou bonus"
+        },
+        "acShow": {
+          "code": 18918719,
+          "nameShort": "fanzone",
+          "$": "Fanzone"
+        },
+        "title": "Fanzone N°904 - Comment The Batman se différencie des autres films ?",
+        "titleShort": "Comment The Batman se différencie des autres films ?",
+        "version": {
+          "code": 6001,
+          "original": 0,
+          "$": "Français"
+        },
+        "runtime": 299,
+        "statistics": {
+          "commentCount": 0,
+          "viewCount": 478
+        },
+        "thumbnail": {
+          "path": "/videothumbnails/22/03/04/10/38/1823441.jpg",
+          "href": "http://fr.web.img5.acsta.net/videothumbnails/22/03/04/10/38/1823441.jpg"
+        }
+      }
+    ],
+    "statistics": {
+      "pressRating": 3.923076,
+      "pressReviewCount": 39,
+      "userRating": 4.11747742,
+      "userReviewCount": 1562,
+      "userRatingCount": 12303,
+      "editorialRatingCount": 0,
+      "commentCount": 11,
+      "photoCount": 60,
+      "videoCount": 25,
+      "triviaCount": 30,
+      "newsCount": 252,
+      "rankTopMovie": 105,
+      "variationTopMovie": -13,
+      "awardCount": 0,
+      "nominationCount": 0,
+      "wantToSeeCount": 0,
+      "releaseWeekPosition": -16,
+      "theaterCount": 4,
+      "theaterCountOnRelease": 722
+    },
+    "news": [
+      {
+        "code": 18710726,
+        "publication": {
+          "dateStart": "2022-06-13T12:00:00"
+        },
+        "title": "The Batman : à quoi aurait ressemblé la version avec Ben Affleck qui n'a pas vu le jour ?",
+        "picture": {
+          "path": "/newsv7/22/06/13/11/01/4508406.jpg",
+          "href": "http://fr.web.img3.acsta.net/newsv7/22/06/13/11/01/4508406.jpg"
+        },
+        "displayMode": {
+          "code": 117001
+        },
+        "pageCount": 1,
+        "category": [
+          {
+            "code": 23218,
+            "$": "Culture ciné"
+          }
+        ]
+      },
+      {
+        "code": 18710307,
+        "publication": {
+          "dateStart": "2022-05-31T12:15:00"
+        },
+        "title": "The Batman 2 : quels méchants Robert Pattinson va-t-il affronter dans la suite ?",
+        "picture": {
+          "path": "/newsv7/22/05/31/11/53/4481080.jpg",
+          "href": "http://fr.web.img1.acsta.net/newsv7/22/05/31/11/53/4481080.jpg"
+        },
+        "displayMode": {
+          "code": 117004
+        },
+        "category": [
+          {
+            "code": 23001,
+            "$": "Tournages"
+          }
+        ]
+      },
+      {
+        "code": 18709510,
+        "publication": {
+          "dateStart": "2022-05-06T12:30:00"
+        },
+        "title": "Russie : des films piratés diffusés dans les salles !",
+        "picture": {
+          "path": "/newsv7/22/05/06/11/31/5224712.jpg",
+          "href": "http://fr.web.img3.acsta.net/newsv7/22/05/06/11/31/5224712.jpg"
+        },
+        "displayMode": {
+          "code": 117001
+        },
+        "pageCount": 1,
+        "category": [
+          {
+            "code": 23006,
+            "$": "Box Office"
+          }
+        ]
+      },
+      {
+        "code": 18709177,
+        "publication": {
+          "dateStart": "2022-04-27T08:50:00"
+        },
+        "title": "The Batman 2 : la suite avec Robert Pattinson est lancée",
+        "picture": {
+          "path": "/newsv7/22/04/27/08/42/1791160.jpg",
+          "href": "http://fr.web.img3.acsta.net/newsv7/22/04/27/08/42/1791160.jpg"
+        },
+        "displayMode": {
+          "code": 117001
+        },
+        "pageCount": 1,
+        "category": [
+          {
+            "code": 23001,
+            "$": "Tournages"
+          }
+        ]
+      }
+    ],
+    "trivia": [
+      {
+        "code": 18577053,
+        "publication": {
+          "dateStart": "2022-01-19T12:25:00"
+        },
+        "title": "Evolution du projet",
+        "body": "En juillet 2015, il est annoncé que Ben Affleck, interprète de l'homme chauve-souris dans Batman v Superman : L'Aube de la justice, réalise un film solo sur Batman, avec un début de tournage prévu pour le printemps 2017. Affleck révèle en 2016 la présence du méchant Deathstroke comme adversaire principal du Chevalier Noir (avec pour interprète Joe Manganiello). En janvier 2017, l'acteur/réalisateur quitte le navire mais reste l'acteur principal. Puis, quelques mois plus tard, Matt Reeves est choisi à la mise en scène. En 2019, Ben Affleck n'est plus rattaché au film, lequel ne fait par ailleurs pas partie DC Universe."
+      },
+      {
+        "code": 18577056,
+        "publication": {
+          "dateStart": "2022-01-19T14:02:00"
+        },
+        "title": "Qui pour Batman ?",
+        "body": "Avant le choix Robert Pattinson et après le désistement de Ben Affleck, les noms de Jack O'Connell, Jake Gyllenhaal, Kit Harington, Nicholas Hoult, Armie Hammer, Michael B. Jordan et Riz Ahmed ont plus ou moins circulé."
+      },
+      {
+        "code": 18571506,
+        "publication": {
+          "dateStart": "2020-06-03T09:52:00"
+        },
+        "title": "Bat Day",
+        "body": "C'est le matin du premier jour de tournage de Tenet, réalisé par Christopher Nolan pour le compte de la Warner, que Robert Pattinson a appris qu'il serait le nouvel interprète de Batman : \"C'était assez dingue\", explique l'acteur dans le numéro de juin 2020 du magazine Total Film. \"C'était un week-end très, très intense. Et une manière folle de débuter le film de Chris. Il me semble également avoir passé un essai caméra le samedi qui a précédé le début du tournage.\""
+      },
+      {
+        "code": 18577180,
+        "publication": {
+          "dateStart": "2022-01-26T11:26:00"
+        },
+        "title": "On ressort les vieux costumes !",
+        "body": "Robert Pattinson a effectué les essais avec la tenue de George Clooney dans Batman & Robin. A noter que Christian Bale et Cillian Murphy (qui a finalement hérité du rôle de l'Epouvantail) avaient passé le casting de Batman Begins dans le costume que portait Val Kilmer dans Batman Forever..."
+      }
+    ],
+    "tag": [
+      {
+        "code": 5104,
+        "type": "Œuvre d'origine",
+        "$": "Adaptation de comic-book"
+      },
+      {
+        "code": 108,
+        "type": "Œuvre d'origine",
+        "$": "Adaptation de comic-book DC Comics"
+      },
+      {
+        "code": 27,
+        "type": "Versions",
+        "$": "Batman"
+      },
+      {
+        "code": 1108,
+        "type": "sous-genre",
+        "$": "Blockbusters / Superproductions"
+      },
+      {
+        "code": 5137,
+        "type": "mot-clé",
+        "$": "Combat / Bagarre / Castagne"
+      },
+      {
+        "code": 2719,
+        "type": "point fort",
+        "$": "Image de synthèse"
+      },
+      {
+        "code": 6002,
+        "type": "ambiance",
+        "$": "Sombre/Désanchanté"
+      },
+      {
+        "code": 5238,
+        "type": "mot-clé",
+        "$": "Super-héros / Super-héroïne"
+      },
+      {
+        "code": 5987,
+        "type": "thème",
+        "$": "Univers DC Warner"
+      }
+    ],
+    "boxOffice": [
+      {
+        "type": {
+          "code": 75001,
+          "$": "BO Semaine France"
+        },
+        "country": {
+          "code": 5001,
+          "$": "France"
+        },
+        "period": {
+          "dateStart": "2022-03-02",
+          "dateEnd": "2022-03-04"
+        },
+        "week": 1,
+        "admissionCount": 1165588,
+        "admissionCountTotal": 1165588,
+        "copyCount": 737
+      },
+      {
+        "type": {
+          "code": 75001,
+          "$": "BO Semaine France"
+        },
+        "country": {
+          "code": 5001,
+          "$": "France"
+        },
+        "period": {
+          "dateStart": "2022-03-09",
+          "dateEnd": "2022-03-11"
+        },
+        "week": 2,
+        "admissionCount": 635144,
+        "admissionCountTotal": 1800732,
+        "copyCount": 737
+      },
+      {
+        "type": {
+          "code": 75001,
+          "$": "BO Semaine France"
+        },
+        "country": {
+          "code": 5001,
+          "$": "France"
+        },
+        "period": {
+          "dateStart": "2022-03-16",
+          "dateEnd": "2022-03-18"
+        },
+        "week": 3,
+        "admissionCount": 607350,
+        "admissionCountTotal": 2408082,
+        "copyCount": 903
+      },
+      {
+        "type": {
+          "code": 75001,
+          "$": "BO Semaine France"
+        },
+        "country": {
+          "code": 5001,
+          "$": "France"
+        },
+        "period": {
+          "dateStart": "2022-03-23",
+          "dateEnd": "2022-03-25"
+        },
+        "week": 4,
+        "admissionCount": 237474,
+        "admissionCountTotal": 2645556,
+        "copyCount": 903
+      },
+      {
+        "type": {
+          "code": 75001,
+          "$": "BO Semaine France"
+        },
+        "country": {
+          "code": 5001,
+          "$": "France"
+        },
+        "period": {
+          "dateStart": "2022-03-30",
+          "dateEnd": "2022-04-01"
+        },
+        "week": 5,
+        "admissionCount": 168390,
+        "admissionCountTotal": 2813946,
+        "copyCount": 827
+      },
+      {
+        "type": {
+          "code": 75001,
+          "$": "BO Semaine France"
+        },
+        "country": {
+          "code": 5001,
+          "$": "France"
+        },
+        "period": {
+          "dateStart": "2022-04-06",
+          "dateEnd": "2022-04-08"
+        },
+        "week": 6,
+        "admissionCount": 93306,
+        "admissionCountTotal": 2907252,
+        "copyCount": 452
+      },
+      {
+        "type": {
+          "code": 75001,
+          "$": "BO Semaine France"
+        },
+        "country": {
+          "code": 5001,
+          "$": "France"
+        },
+        "period": {
+          "dateStart": "2022-04-13",
+          "dateEnd": "2022-04-15"
+        },
+        "week": 7,
+        "admissionCount": 56775,
+        "admissionCountTotal": 2964027,
+        "copyCount": 234
+      },
+      {
+        "type": {
+          "code": 75002,
+          "$": "BO Week-end USA"
+        },
+        "country": {
+          "code": 5002,
+          "$": "U.S.A."
+        },
+        "period": {
+          "dateStart": "2022-03-04",
+          "dateEnd": "2022-03-06"
+        },
+        "week": 1,
+        "copyCount": 4417,
+        "gross": 128500000,
+        "grossTotal": 128500000,
+        "currency": {
+          "code": 41003,
+          "$": "Dollar"
+        }
+      },
+      {
+        "type": {
+          "code": 75002,
+          "$": "BO Week-end USA"
+        },
+        "country": {
+          "code": 5002,
+          "$": "U.S.A."
+        },
+        "period": {
+          "dateStart": "2022-03-11",
+          "dateEnd": "2022-03-13"
+        },
+        "week": 2,
+        "copyCount": 4417,
+        "gross": 66000000,
+        "grossTotal": 238520826,
+        "currency": {
+          "code": 41003,
+          "$": "Dollar"
+        }
+      },
+      {
+        "type": {
+          "code": 75002,
+          "$": "BO Week-end USA"
+        },
+        "country": {
+          "code": 5002,
+          "$": "U.S.A."
+        },
+        "period": {
+          "dateStart": "2022-03-18",
+          "dateEnd": "2022-03-20"
+        },
+        "week": 3,
+        "copyCount": 4302,
+        "gross": 36800000,
+        "grossTotal": 300091000,
+        "currency": {
+          "code": 41003,
+          "$": "Dollar"
+        }
+      },
+      {
+        "type": {
+          "code": 75002,
+          "$": "BO Week-end USA"
+        },
+        "country": {
+          "code": 5002,
+          "$": "U.S.A."
+        },
+        "period": {
+          "dateStart": "2022-03-25",
+          "dateEnd": "2022-03-27"
+        },
+        "week": 4,
+        "copyCount": 3967,
+        "gross": 20500000,
+        "grossTotal": 331951000,
+        "currency": {
+          "code": 41003,
+          "$": "Dollar"
+        }
+      },
+      {
+        "type": {
+          "code": 75002,
+          "$": "BO Week-end USA"
+        },
+        "country": {
+          "code": 5002,
+          "$": "U.S.A."
+        },
+        "period": {
+          "dateStart": "2022-04-01",
+          "dateEnd": "2022-04-03"
+        },
+        "week": 5,
+        "copyCount": 3732,
+        "gross": 10800000,
+        "grossTotal": 349000421,
+        "currency": {
+          "code": 41003,
+          "$": "Dollar"
+        }
+      },
+      {
+        "type": {
+          "code": 75002,
+          "$": "BO Week-end USA"
+        },
+        "country": {
+          "code": 5002,
+          "$": "U.S.A."
+        },
+        "period": {
+          "dateStart": "2022-04-08",
+          "dateEnd": "2022-04-10"
+        },
+        "week": 6,
+        "copyCount": 3254,
+        "gross": 6550000,
+        "grossTotal": 359052000,
+        "currency": {
+          "code": 41003,
+          "$": "Dollar"
+        }
+      },
+      {
+        "type": {
+          "code": 75002,
+          "$": "BO Week-end USA"
+        },
+        "country": {
+          "code": 5002,
+          "$": "U.S.A."
+        },
+        "period": {
+          "dateStart": "2022-04-15",
+          "dateEnd": "2022-04-17"
+        },
+        "week": 7,
+        "copyCount": 2535,
+        "gross": 3800000,
+        "grossTotal": 365035121,
+        "currency": {
+          "code": 41003,
+          "$": "Dollar"
+        }
+      }
+    ],
+    "bestPressReview": [
+      {
+        "code": 40098755,
+        "creationDate": "2022-03-30T16:50:00Z",
+        "newsSource": {
+          "code": 82033,
+          "name": "Mad Movies",
+          "href": "http://www.mad-movies.com/"
+        },
+        "author": "Alexandre Poncet",
+        "body": "Il n'y a à ce titre rien de révolutionnaire dans la démarche de Matt Reeves, mais la facilité avec laquelle il parvient à raccorcher son oeuvre aux wagons du Parrain, d'À cause d'un assassinat, de Chinatown, de Marathon Man ou de Taxi Driver, tout en assurant avec générosité son cahier des charges de blockbuster moderne, force la respect.",
+        "rating": 5
+      }
+    ],
+    "worstPressReview": [
+      {
+        "code": 40097492,
+        "creationDate": "2022-03-01T12:02:00Z",
+        "newsSource": {
+          "code": 82026,
+          "name": "Le Monde",
+          "href": "http://www.lemonde.fr/web/sequence/0,2-3476,1-0,0.html"
+        },
+        "author": "Jacques Mandelbaum",
+        "body": "Le tout émaillé du sempiternel roman des origines batmanien et doté de scènes d'action de bonne facture (...). Dans cette partition sans grande surprise, Robert Pattinson s'essaie à trouver sa signature.",
+        "rating": 2
+      }
+    ]
+  }
+}
