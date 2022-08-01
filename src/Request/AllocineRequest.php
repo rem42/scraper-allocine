@@ -1,4 +1,4 @@
-<?php
+<?php declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Request;
 
@@ -11,7 +11,7 @@ use Scraper\Scraper\Request\ScraperRequest;
  */
 abstract class AllocineRequest extends ScraperRequest implements RequestQuery
 {
-    /** @var string[] */
+    /** @var array<string> */
     private const ORDER = ['filter', 'q', 'partner', 'mediafmt', 'profile', 'count', 'format', 'page', 'sed'];
 
     /** @var array<string, int|string> */
