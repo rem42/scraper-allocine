@@ -2,11 +2,9 @@
 
 namespace Scraper\ScraperAllocine\Request;
 
-use Scraper\Scraper\Annotation\Scraper;
+use Scraper\Scraper\Attribute\Scraper;
 
-/**
- * @Scraper(path="movie")
- */
+#[Scraper(path: 'movie')]
 final class AllocineMovieRequest extends AllocineRequest
 {
     protected int $code;

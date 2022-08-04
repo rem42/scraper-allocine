@@ -15,7 +15,7 @@ abstract class AbtractRequestTest extends TestCase
         $responseInterface
             ->method('getStatusCode')->willReturn(200);
         $responseInterface
-            ->method('getContent')->willReturn(file_get_contents(__DIR__ . '/../Fixtures/' . $fixture))
+            ->method('getContent')->willReturn(file_get_contents(__DIR__ . '/../fixtures/' . $fixture))
         ;
         $httpClient = $this->createMock(HttpClientInterface::class);
         $httpClient

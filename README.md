@@ -1,5 +1,5 @@
 Scraper Allocine
-=======
+================
 
 ![Packagist version](https://flat.badgen.net/packagist/v/rem42/scraper-allocine)
 ![Packagist download](https://flat.badgen.net/packagist/dt/rem42/scraper-allocine)
@@ -22,7 +22,7 @@ composer require rem42/scraper-allocine "^2.0"
 Requirement
 -----------
 
-- PHP >= 7.4
+- PHP >= 8.1
 
 Usage
 -----

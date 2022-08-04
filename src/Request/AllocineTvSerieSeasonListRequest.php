@@ -2,11 +2,9 @@
 
 namespace Scraper\ScraperAllocine\Request;
 
-use Scraper\Scraper\Annotation\Scraper;
+use Scraper\Scraper\Attribute\Scraper;
 
-/**
- * @Scraper(path="seasonlist")
- */
+#[Scraper(path: 'seasonlist')]
 final class AllocineTvSerieSeasonListRequest extends AllocineRequest
 {
     protected int $tvseries;

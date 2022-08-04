@@ -2,13 +2,13 @@
 
 namespace Scraper\ScraperAllocine\Request;
 
-use Scraper\Scraper\Annotation\Scraper;
+use Scraper\Scraper\Attribute\Method;
+use Scraper\Scraper\Attribute\Scheme;
+use Scraper\Scraper\Attribute\Scraper;
 use Scraper\Scraper\Request\RequestQuery;
 use Scraper\Scraper\Request\ScraperRequest;
 
-/**
- * @Scraper(host="api.allocine.fr", scheme="HTTPS", method="GET", path="rest/v3/")
- */
+#[Scraper(method: Method::GET, scheme: Scheme::HTTPS, host: 'api.allocine.fr', path: 'rest/v3/')]
 abstract class AllocineRequest extends ScraperRequest implements RequestQuery
 {
     /** @var array<string> */

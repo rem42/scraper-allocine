@@ -2,11 +2,9 @@
 
 namespace Scraper\ScraperAllocine\Request;
 
-use Scraper\Scraper\Annotation\Scraper;
+use Scraper\Scraper\Attribute\Scraper;
 
-/**
- * @Scraper(path="search")
- */
+#[Scraper(path: 'search')]
 class AllocineSearchRequest extends AllocineRequest
 {
     protected string $filter = 'movie,tvseries,theater,person,video,news,program';
