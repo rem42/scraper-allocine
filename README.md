@@ -16,7 +16,7 @@ Installation
 ------------
 
 ````bash
-composer require rem42/scraper-allocine "^2.0"
+composer require rem42/scraper-allocine
 ````
 
 Requirement
