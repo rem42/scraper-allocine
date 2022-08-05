@@ -8,11 +8,11 @@ use Scraper\Scraper\Attribute\Scraper;
 class AllocineSearchRequest extends AllocineRequest
 {
     protected string $filter = 'movie,tvseries,theater,person,video,news,program';
-    protected string $path   = 'search';
+    protected string $path = 'search';
     protected string $query;
 
     protected int $count = 20;
-    protected int $page  = 1;
+    protected int $page = 1;
 
     /**
      * @return array<string, int|string>
@@ -21,9 +21,9 @@ class AllocineSearchRequest extends AllocineRequest
     {
         $this->parameters = [
             'filter' => $this->filter,
-            'q'      => $this->query,
-            'count'  => $this->count,
-            'page'   => $this->page,
+            'q' => $this->query,
+            'count' => $this->count,
+            'page' => $this->page,
         ];
         return parent::getQuery();
     }

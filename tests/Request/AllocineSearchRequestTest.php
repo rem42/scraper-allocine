@@ -17,7 +17,7 @@ final class AllocineSearchRequestTest extends AbtractRequestTest
 {
     public function testAllocineSearchRequest(): void
     {
-        $client  = $this->getClient('search.json');
+        $client = $this->getClient('search.json');
         $request = new AllocineSearchRequest('partner', 'hash');
         $request->setQuery('marvel');
 

@@ -30,7 +30,7 @@ abstract class AllocineRequest extends ScraperRequest implements RequestQuery
     public function __construct(string $partner, string $hash)
     {
         $this->partner = $partner;
-        $this->hash    = $hash;
+        $this->hash = $hash;
     }
 
     /**
@@ -39,11 +39,11 @@ abstract class AllocineRequest extends ScraperRequest implements RequestQuery
     public function getQuery(): array
     {
         $parameters = array_merge($this->parameters, [
-            'format'   => 'json',
+            'format' => 'json',
             'mediafmt' => $this->mediaFmt,
-            'profile'  => $this->profile,
-            'partner'  => $this->partner,
-            'sed'      => date('Ymd'),
+            'profile' => $this->profile,
+            'partner' => $this->partner,
+            'sed' => date('Ymd'),
         ]);
 
         uksort($parameters, static function (string $key1, string $key2) {

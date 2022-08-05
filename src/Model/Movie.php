@@ -52,11 +52,11 @@ final class Movie
     public Poster $poster;
     public Trailer $trailer;
     public string $trailerEmbed;
-    public int $hasVOD       = 0;
-    public int $hasBluRay    = 0;
-    public int $hasDVD       = 0;
+    public int $hasVOD = 0;
+    public int $hasBluRay = 0;
+    public int $hasDVD = 0;
     public int $hasBroadcast = 0;
-    public int $hasShowtime  = 0;
+    public int $hasShowtime = 0;
     public \DateTime $dvdReleaseDate;
     public \DateTime $bluRayReleaseDate;
     /** @var array<Link> */
