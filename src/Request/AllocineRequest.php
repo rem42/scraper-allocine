@@ -24,14 +24,10 @@ abstract class AllocineRequest extends ScraperRequest implements RequestQuery
     // protected string $mediaFmt = 'mp4-best';
     protected string $mediaFmt = 'mp4-lc:m';
 
-    private string $partner;
-    private string $hash;
-
-    public function __construct(string $partner, string $hash)
-    {
-        $this->partner = $partner;
-        $this->hash = $hash;
-    }
+    public function __construct(
+        private readonly string $partner,
+        private readonly string $hash
+    ) {}
 
     /**
      * @return array<string, int|string>
