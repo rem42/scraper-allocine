@@ -1,7 +1,7 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Model\Miscellaneous;
 
-final class ProductSeller extends Type
-{
-}
+final class ProductSeller extends Type {}

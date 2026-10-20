@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Request;
 
@@ -26,7 +28,7 @@ abstract class AllocineRequest extends ScraperRequest implements RequestQuery
 
     public function __construct(
         private readonly string $partner,
-        private readonly string $hash
+        private readonly string $hash,
     ) {}
 
     /**

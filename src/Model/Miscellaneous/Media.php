@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Model\Miscellaneous;
 
@@ -19,8 +21,10 @@ final class Media
     public int $width;
     public int $height;
     public string $copyrightHolder;
+
     /** @var array<Link> */
     public array $link = [];
+
     /** @var array<Person> */
     public array $subject = [];
 

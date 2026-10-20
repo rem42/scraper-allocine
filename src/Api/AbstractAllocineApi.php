@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Api;
 
@@ -17,6 +19,7 @@ abstract class AbstractAllocineApi extends AbstractApi
             throw new AllocineException('no result');
         }
 
+        /** @var array<string, array<string, array<string, mixed>>> $content */
         $jsonContent = json_encode($this->getContent($content), \JSON_THROW_ON_ERROR);
 
         /* @phpstan-ignore-next-line */

@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Model;
 
@@ -34,11 +36,14 @@ final class Season
     public int $hasSVOD;
     public int $hasBluRay;
     public int $hasDVD;
+
     /** @var array<CastMember> */
     public array $castMember = [];
+
     /** @var array<Episode> */
     public array $episode = [];
     public Link $link;
+
     /** @var array<Media> */
     public array $media = [];
     public Statistics $statistics;

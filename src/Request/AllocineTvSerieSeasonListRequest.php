@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Request;
 
@@ -18,6 +20,7 @@ final class AllocineTvSerieSeasonListRequest extends AllocineRequest
         $this->parameters = [
             'tvseries' => $this->tvseries,
         ];
+
         return parent::getQuery();
     }
 

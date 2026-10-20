@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Model;
 
@@ -33,19 +35,23 @@ final class Movie
     public string $universe;
     public string $keywords;
     public int $productionYear;
+
     /** @var array<Nationality> */
     public array $nationality = [];
+
     /** @var array<Genre> */
     public array $genre = [];
     public Release $release;
     public int $runtime;
     public Color $color;
+
     /** @var array<Language> */
     public array $language = [];
     public string $budget;
     public string $synopsis;
     public string $synopsisShort;
     public CastingShort $castingShort;
+
     /** @var array<CastMember> */
     public array $castMember = [];
     public MovieCertificate $movieCertificate;
@@ -59,27 +65,38 @@ final class Movie
     public int $hasShowtime = 0;
     public \DateTime $dvdReleaseDate;
     public \DateTime $bluRayReleaseDate;
+
     /** @var array<Link> */
     public array $link = [];
+
     /** @var array<Media> */
     public array $media = [];
     public Statistics $statistics;
+
     /** @var array<News> */
     public array $news = [];
+
     /** @var array<Feature> */
     public array $feature = [];
+
     /** @var array<Trivia> */
     public array $trivia = [];
+
     /** @var array<Tag> */
     public array $tag = [];
+
     /** @var array<BoxOffice> */
     public array $boxOffice = [];
+
     /** @var array<Product> */
     public array $product = [];
+
     /** @var array<Review> */
     public array $helpfulNegativeReview = [];
+
     /** @var array<Review> */
     public array $bestPressReview = [];
+
     /** @var array<Review> */
     public array $worstPressReview = [];
 

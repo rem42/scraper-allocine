@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Model\Miscellaneous;
 
@@ -22,6 +24,7 @@ final class Statistics
     public int $variationTopMovie;
     public int $awardCount;
     public int $nominationCount;
+
     /** @var array<Rating> */
     public array $rating = [];
     public int $fanCount;

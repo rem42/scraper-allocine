@@ -1,7 +1,7 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Model\Miscellaneous;
 
-final class Genre extends Type
-{
-}
+final class Genre extends Type {}

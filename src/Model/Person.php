@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Model;
 
@@ -11,10 +13,13 @@ final class Person
 {
     public int $code;
     public string $name;
+
     /** @var array<Activity> */
     public array $activity = [];
+
     /** @var array<Nationality> */
     public array $nationality = [];
+
     /** @var array<Link> */
     public array $link = [];
     public Picture $picture;

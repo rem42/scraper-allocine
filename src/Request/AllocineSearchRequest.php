@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Request;
 
@@ -25,6 +27,7 @@ class AllocineSearchRequest extends AllocineRequest
             'count' => $this->count,
             'page' => $this->page,
         ];
+
         return parent::getQuery();
     }
 

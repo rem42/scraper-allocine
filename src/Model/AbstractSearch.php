@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Model;
 
@@ -9,6 +11,7 @@ abstract class AbstractSearch
     public int $page;
     public int $count;
     public int $totalResults;
+
     /** @var array<ResultType> */
     public array $results = [];
 

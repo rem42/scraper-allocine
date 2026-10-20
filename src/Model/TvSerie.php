@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Model;
 
@@ -35,6 +37,7 @@ final class TvSerie
     public OriginalChannel $originalChannel;
     public int $formatTime;
     public ProductionStatus $productionStatus;
+
     /** @var array<Season> */
     public array $season = [];
     public Broadcast $broadcast;
@@ -45,40 +48,54 @@ final class TvSerie
     public int $hasBluRay;
     public int $hasDVD;
     public int $hasBroadcast;
+
     /** @var array<Nationality> */
     public array $nationality = [];
+
     /** @var array<Genre> */
     public array $genre = [];
     public string $synopsisShort;
     public string $synopsis;
     public CastingShort $castingShort;
+
     /** @var array<CastMember> */
     public array $castMember = [];
     public Poster $poster;
     public Trailer $trailer;
     public string $trailerEmbed;
     public TopBanner $topBanner;
+
     /** @var array<Link> */
     public array $link = [];
+
     /** @var array<Media> */
     public array $media = [];
     public Statistics $statistics;
+
     /** @var array<News> */
     public array $news = [];
+
     /** @var array<Feature> */
     public array $feature = [];
+
     /** @var array<Trivia> */
     public array $trivia = [];
+
     /** @var array<Tag> */
     public array $tag = [];
+
     /** @var array<FestivalAward> */
     public array $festivalAward = [];
+
     /** @var array<Review> */
     public array $helpfulPositiveReview = [];
+
     /** @var array<Review> */
     public array $helpfulNegativeReview = [];
+
     /** @var array<Review> */
     public array $bestPressReview = [];
+
     /** @var array<Review> */
     public array $worstPressReview = [];
 

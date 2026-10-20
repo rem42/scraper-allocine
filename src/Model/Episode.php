@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Model;
 
@@ -9,6 +11,7 @@ use Scraper\ScraperAllocine\Model\Miscellaneous\Trailer;
 final class Episode
 {
     public int $code;
+
     /** @var array<Season> */
     public array $parentSeason = [];
     public string $originalTitle;
@@ -20,6 +23,7 @@ final class Episode
     public Trailer $trailer;
     public string $trailerEmbed;
     public string $defaultMedia;
+
     /** @var array<Link> */
     public array $link = [];
     public Statistics $statistics;

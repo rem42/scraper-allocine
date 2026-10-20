@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Model;
 
@@ -8,20 +10,28 @@ use Scraper\ScraperAllocine\Model\Miscellaneous\News;
 final class Search
 {
     public int $count;
+
     /** @var array<string> */
     public array $results = [];
+
     /** @var array<Movie> */
     public array $movie = [];
+
     /** @var array<TheaterSearch> */
     public array $theater = [];
+
     /** @var array<TvSerie> */
     public array $tvseries = [];
+
     /** @var array<Person> */
     public array $person = [];
+
     /** @var array<ProgramSearch> */
     public array $program = [];
+
     /** @var array<Media> */
     public array $media = [];
+
     /** @var array<News> */
     public array $news = [];
     public int $page;

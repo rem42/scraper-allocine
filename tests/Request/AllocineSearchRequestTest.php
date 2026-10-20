@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperAllocine\Tests\Request;
 
@@ -13,7 +15,7 @@ use Scraper\ScraperAllocine\Request\AllocineSearchRequest;
 /**
  * @internal
  */
-final class AllocineSearchRequestTest extends AbtractRequestTest
+final class AllocineSearchRequestTest extends AbstractRequestTestCase
 {
     public function testAllocineSearchRequest(): void
     {
